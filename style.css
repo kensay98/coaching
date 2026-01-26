@@ -472,12 +472,6 @@ nav {
     padding: 32px;
     border: 1px solid var(--border-primary);
     border-radius: var(--radius-lg);
-    transition: var(--transition);
-}
-
-.alternative:hover {
-    border-color: var(--text-tertiary);
-    background: var(--bg-card);
 }
 
 .alternative h4 {
@@ -574,27 +568,6 @@ nav {
     color: var(--text-tertiary);
 }
 
-/* Cal.com embed */
-.cal-embed-wrapper {
-    margin-top: 48px;
-    padding: 32px;
-    background: var(--bg-tertiary);
-    border: 1px solid var(--border-primary);
-    border-radius: var(--radius-lg);
-}
-
-.cal-embed-title {
-    text-align: center;
-    margin-bottom: 24px;
-    color: var(--text-primary);
-}
-
-#my-cal-inline-30min {
-    min-height: 580px;
-    width: 100%;
-    border-radius: var(--radius-md);
-    overflow: hidden;
-}
 
 /* Footer */
 footer {
