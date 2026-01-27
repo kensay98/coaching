@@ -118,6 +118,28 @@ nav {
     border-color: var(--text-tertiary);
 }
 
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.lang-switch {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    padding: 6px 12px;
+    border: 1px solid var(--border-primary);
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+}
+
+.lang-switch:hover {
+    color: var(--text-primary);
+    border-color: var(--text-tertiary);
+}
+
 /* Hero */
 .hero {
     padding: 160px 0 100px;
