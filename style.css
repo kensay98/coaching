@@ -335,29 +335,6 @@ nav {
     line-height: 1.7;
 }
 
-.method-item {
-    margin-bottom: 24px;
-}
-
-.method-item h4 {
-    color: var(--text-primary);
-    margin-bottom: 8px;
-}
-
-.method-item p {
-    font-size: 15px;
-    color: var(--text-secondary);
-    line-height: 1.7;
-}
-
-.method-note {
-    font-size: 15px;
-    color: var(--text-secondary);
-    line-height: 1.7;
-    padding-top: 16px;
-    border-top: 1px solid var(--border-primary);
-    font-style: italic;
-}
 
 /* Audience Content */
 .audience-content {
@@ -601,6 +578,13 @@ footer {
 footer p {
     font-size: 14px;
     color: var(--text-tertiary);
+}
+
+.footer-meta {
+    margin-top: 8px;
+    font-size: 13px;
+    color: var(--text-tertiary);
+    opacity: 0.7;
 }
 
 /* Responsive */

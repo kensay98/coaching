@@ -145,7 +145,7 @@ Many business coaches stay surface-level—tactics, tips, frameworks. Many "tran
 
 ### The Path to Working Together
 
-**1. Free Intro Session (30 minutes)**
+**1. Free Intro Session (60 minutes)**
 Bring something real—a decision you're stuck on, a pattern you want to understand, a situation you're navigating. You'll get a taste of how this works and clarity on whatever you bring. No sales pitch. Whether we continue or not, you'll walk away with something useful.
 
 **2. If There's a Fit**
@@ -243,7 +243,7 @@ They're too close. You can't say "I'm afraid I won't handle the Series B" withou
 
 ### Start Here
 
-**Free 30-minute intro session.**
+**Free 60-minute intro session.**
 
 Bring a real decision you're stuck on or a pattern you want to change. You'll walk away with clarity and a feel for how this works—whether we continue or not.
 
@@ -351,7 +351,7 @@ You've probably been trying. How's it going? The patterns you can see but can't 
 
 ### Start Here
 
-**A free 30-minute conversation.**
+**A free 60-minute session.**
 
 Bring something real—a transition you're navigating, a pattern you keep noticing, a challenge you're facing. We'll work with it together, and you'll get a taste of what this approach feels like.
 
@@ -436,7 +436,7 @@ Fair skepticism. My approach integrates depth modalities (IFS, somatic work, dev
 ## CTA Blocks
 
 **Standard:**
-Book a free 30-minute intro session. Bring something real—a decision, a pattern, a situation you're navigating. You'll walk away with clarity, whether we continue or not.
+Book a free 60-minute intro session. Bring something real—a decision, a pattern, a situation you're navigating. You'll walk away with clarity, whether we continue or not.
 
 **Founder-specific:**
 Bring a real decision you're stuck on or a pattern you want to change. No sales pitch. No pressure. Just a sample of what it's like to think with someone who understands startup context and has no stake in your decisions.
