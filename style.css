@@ -146,6 +146,24 @@ nav {
     z-index: 1;
 }
 
+#hero-canvas {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 60%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+    background: transparent;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+#hero-canvas.ready {
+    opacity: 1;
+}
+
 .hero-photo {
     width: 150px;
     height: 150px;
@@ -663,6 +681,13 @@ footer p {
         justify-content: center;
         flex-direction: column;
         align-items: center;
+    }
+
+    #hero-canvas {
+        width: 100%;
+        left: 0;
+        right: 0;
+        opacity: 0.4;
     }
 
     .hero-photo {
