@@ -229,6 +229,8 @@ function animate() {
 
     // Reveal canvas after first frame is rendered
     if (!canvas.classList.contains('ready')) {
+        canvas.style.opacity = '';
+        canvas.style.background = '';
         canvas.classList.add('ready');
     }
 }
