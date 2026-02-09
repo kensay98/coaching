@@ -39,7 +39,7 @@
       "about.title": "Rustam Babadjanov",
       "about.p1": "I believe the best coaching happens when two people go deep together — not as guru and client, but as partners. I bring curiosity, directness, and a willingness to sit in the uncomfortable places where real change lives.",
       "about.p2": "Every session is an experiment. We might work with a decision that's keeping you up at night, or go underneath it into the patterns and parts driving it. I follow what's alive, not a script.",
-      "about.p3": "I come from the world I coach in. I co-founded a startup, built products at a company acquired by Yandex, and led teams through the chaos of fast growth. I know what it's like to carry the weight of decisions with nobody to be honest with.",
+      "about.p3": "I come from the world I coach in. I co-founded a startup, built products, and led teams through the chaos of fast growth. I know what it's like to carry the weight of decisions with nobody to be honest with.",
       "about.p4": "I've been coaching since 2024 and I'm completing my ICF accreditation in 2026. My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. I'm also building ttune.ai — I'm still in the startup world, not coaching from the outside.",
 
       // Why section
@@ -142,7 +142,7 @@
       "about.title": "Рустам Бабаджанов",
       "about.p1": "Лучший коучинг для меня — когда два человека идут вглубь вместе. Не как гуру и клиент, а как партнёры. Любопытство, прямота и готовность быть в некомфортных местах, где и случаются настоящие сдвиги.",
       "about.p2": "Каждая сессия — эксперимент. Можем работать с решением, которое не даёт тебе спать. Можем пойти глубже — в паттерны и части, которые за ним стоят. Я иду за тем, что живое, а не за сценарием.",
-      "about.p3": "Я из того же мира, в котором коучу. Со-основал стартап, строил продукты в компании, которую купил Яндекс, вёл команды через хаос быстрого роста. Знаю, каково нести вес решений, когда не с кем быть честным.",
+      "about.p3": "Я из того же мира, в котором коучу. Со-основал стартап, строил продукты, вёл команды через хаос быстрого роста. Знаю, каково нести вес решений, когда не с кем быть честным.",
       "about.p4": "Коучу с 2024 года, заканчиваю аккредитацию ICF в 2026. Подход — формальное обучение коучингу, соматическая работа, IFS и годы медитации. Параллельно строю ttune.ai — я до сих пор в стартапах, а не коучу со стороны.",
 
       // Why section
