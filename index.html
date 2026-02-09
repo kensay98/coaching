@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="1:1 coaching for startup founders and tech leaders. Work through decisions, patterns, and the loneliness of leadership with someone who's been there. Free first session.">
+    <meta name="description" data-i18n="meta.description" data-i18n-attr="content" content="1:1 coaching for startup founders and tech leaders. Work through decisions, patterns, and the loneliness of leadership with someone who's been there. Free first session.">
     <title>Rustam Babadjanov | Coaching for Those Who Build</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="stylesheet" href="style.css">
@@ -24,7 +24,11 @@
         <div class="container nav-content">
             <a href="#" class="logo">Rustam Babadjanov</a>
             <div class="nav-right">
-                <a href="#contact" class="nav-cta">Book Free Session</a>
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="en">EN</button>
+                    <button class="lang-btn" data-lang="ru">RU</button>
+                </div>
+                <a href="#contact" class="nav-cta" data-i18n="nav.cta">Book Free Session</a>
             </div>
         </div>
     </nav>
@@ -32,19 +36,19 @@
     <header class="hero">
         <canvas id="hero-canvas" style="opacity:0;background:transparent"></canvas>
         <div class="container">
-            <img src="media/image.png" alt="Rustam Babadjanov" class="hero-photo">
-            <h1>Coaching for Those Who Build</h1>
-            <p class="hero-sub">A space to go deep with someone who gets it. We work as partners — exploring what's really going on, running experiments, and finding what actually shifts things. No agenda, no advice. Just the kind of honest work that changes how you lead and live.</p>
+            <img src="media/image.png" data-i18n="hero.imgAlt" data-i18n-attr="alt" alt="Rustam Babadjanov" class="hero-photo">
+            <h1 data-i18n="hero.title">Coaching for Those Who Build</h1>
+            <p class="hero-sub" data-i18n="hero.sub">A space to go deep with someone who gets it. We work as partners — exploring what's really going on, running experiments, and finding what actually shifts things. No agenda, no advice. Just the kind of honest work that changes how you lead and live.</p>
             <div class="hero-meta">
-                <span>No agenda</span>
+                <span data-i18n="hero.meta.1">No agenda</span>
                 <span class="hero-meta-sep">·</span>
-                <span>Totally confidential</span>
+                <span data-i18n="hero.meta.2">Totally confidential</span>
                 <span class="hero-meta-sep">·</span>
-                <span>Your answers, not mine</span>
+                <span data-i18n="hero.meta.3">Your answers, not mine</span>
             </div>
             <div class="hero-actions">
-                <a href="#contact" class="btn btn-primary">Book a Free Session</a>
-                <a href="#who" class="btn btn-ghost">Learn More</a>
+                <a href="#contact" class="btn btn-primary" data-i18n="hero.cta.primary">Book a Free Session</a>
+                <a href="#who" class="btn btn-ghost" data-i18n="hero.cta.ghost">Learn More</a>
             </div>
         </div>
     </header>
@@ -52,27 +56,27 @@
     <section class="section" id="who">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Who This Is For</span>
-                <h2>Ready to go deeper</h2>
+                <span class="section-label" data-i18n="who.label">Who This Is For</span>
+                <h2 data-i18n="who.title">Ready to go deeper</h2>
             </div>
             <div class="audience-content">
-                <p>You're accomplished and capable. You don't need fixing — you want partnership. Someone to think with, experiment with, and go beneath the surface with. Because the next level isn't about working harder. It's about seeing clearer.</p>
+                <p data-i18n="who.intro">You're accomplished and capable. You don't need fixing — you want partnership. Someone to think with, experiment with, and go beneath the surface with. Because the next level isn't about working harder. It's about seeing clearer.</p>
 
-                <h3>You might be:</h3>
+                <h3 data-i18n="who.might.heading">You might be:</h3>
                 <ul class="audience-list">
-                    <li>A <strong>founder</strong> dealing with the loneliness and the weight of decisions nobody else can make</li>
-                    <li>A <strong>leader in transition</strong>, stepping into a bigger role or figuring out what's next</li>
-                    <li>Someone struggling with <strong>people stuff</strong>: managing, conflict, communicating with stakeholders who don't think like you</li>
-                    <li>Someone stuck in <strong>patterns</strong> you can see but can't seem to stop</li>
-                    <li>Someone dealing with <strong>imposter syndrome</strong>, self-doubt, the voice that says you don't belong</li>
-                    <li>Someone making <strong>hard calls</strong> with incomplete information, wanting a thinking partner who doesn't have a stake in your decision</li>
+                    <li data-i18n="who.might.1">A <strong>founder</strong> dealing with the loneliness and the weight of decisions nobody else can make</li>
+                    <li data-i18n="who.might.2">A <strong>leader in transition</strong>, stepping into a bigger role or figuring out what's next</li>
+                    <li data-i18n="who.might.3">Someone struggling with <strong>people stuff</strong>: managing, conflict, communicating with stakeholders who don't think like you</li>
+                    <li data-i18n="who.might.4">Someone stuck in <strong>patterns</strong> you can see but can't seem to stop</li>
+                    <li data-i18n="who.might.5">Someone dealing with <strong>imposter syndrome</strong>, self-doubt, the voice that says you don't belong</li>
+                    <li data-i18n="who.might.6">Someone making <strong>hard calls</strong> with incomplete information, wanting a thinking partner who doesn't have a stake in your decision</li>
                 </ul>
 
-                <h3>Not a fit if:</h3>
+                <h3 data-i18n="who.notfit.heading">Not a fit if:</h3>
                 <ul class="not-for-list">
-                    <li>You're in crisis and need clinical support. That's what therapy is for.</li>
-                    <li>You want someone to tell you what to do. Get a mentor or advisor.</li>
-                    <li>You want quick fixes. This takes time.</li>
+                    <li data-i18n="who.notfit.1">You're in crisis and need clinical support. That's what therapy is for.</li>
+                    <li data-i18n="who.notfit.2">You want someone to tell you what to do. Get a mentor or advisor.</li>
+                    <li data-i18n="who.notfit.3">You want quick fixes. This takes time.</li>
                 </ul>
             </div>
         </div>
@@ -82,14 +86,14 @@
         <canvas id="about-canvas" style="opacity:0;background:transparent"></canvas>
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Who I Am</span>
-                <h2>Rustam Babadjanov</h2>
+                <span class="section-label" data-i18n="about.label">Who I Am</span>
+                <h2 data-i18n="about.title">Rustam Babadjanov</h2>
             </div>
             <div class="about-text">
-                <p>I believe the best coaching happens when two people go deep together — not as guru and client, but as partners. I bring curiosity, directness, and a willingness to sit in the uncomfortable places where real change lives.</p>
-                <p>Every session is an experiment. We might work with a decision that's keeping you up at night, or go underneath it into the patterns and parts driving it. I follow what's alive, not a script.</p>
-                <p>I come from the world I coach in. I co-founded a startup, built products at a company acquired by Yandex, and led teams through the chaos of fast growth. I know what it's like to carry the weight of decisions with nobody to be honest with.</p>
-                <p>I've been coaching since 2024 and I'm completing my ICF accreditation in 2026. My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. I'm also building ttune.ai — I'm still in the startup world, not coaching from the outside.</p>
+                <p data-i18n="about.p1">I believe the best coaching happens when two people go deep together — not as guru and client, but as partners. I bring curiosity, directness, and a willingness to sit in the uncomfortable places where real change lives.</p>
+                <p data-i18n="about.p2">Every session is an experiment. We might work with a decision that's keeping you up at night, or go underneath it into the patterns and parts driving it. I follow what's alive, not a script.</p>
+                <p data-i18n="about.p3">I come from the world I coach in. I co-founded a startup, built products at a company acquired by Yandex, and led teams through the chaos of fast growth. I know what it's like to carry the weight of decisions with nobody to be honest with.</p>
+                <p data-i18n="about.p4">I've been coaching since 2024 and I'm completing my ICF accreditation in 2026. My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. I'm also building ttune.ai — I'm still in the startup world, not coaching from the outside.</p>
             </div>
         </div>
     </section>
@@ -97,29 +101,29 @@
     <section class="section">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Why This</span>
-                <h2>Why coaching, not something else</h2>
+                <span class="section-label" data-i18n="why.label">Why This</span>
+                <h2 data-i18n="why.title">Why coaching, not something else</h2>
             </div>
             <div class="alternatives">
                 <div class="alternative">
-                    <h4>vs. Mentor or Advisor</h4>
-                    <p>They give you their answer, from their experience, with their biases. You can't be fully honest about fears or doubts — they're evaluating whether you're "leadership material."</p>
-                    <p class="highlight"><strong>Coaching gives you your answer</strong> — uncovered through questions and challenge. An answer you own because it came from you.</p>
+                    <h4 data-i18n="why.mentor.h">vs. Mentor or Advisor</h4>
+                    <p data-i18n="why.mentor.p1">They give you their answer, from their experience, with their biases. You can't be fully honest about fears or doubts — they're evaluating whether you're "leadership material."</p>
+                    <p class="highlight" data-i18n="why.mentor.p2"><strong>Coaching gives you your answer</strong> — uncovered through questions and challenge. An answer you own because it came from you.</p>
                 </div>
                 <div class="alternative">
-                    <h4>vs. Therapist</h4>
-                    <p>Therapy takes you from "not okay" to "okay." Important work, and if that's what you need, do that.</p>
-                    <p class="highlight"><strong>This is "okay" to "next level."</strong> You're already functioning. We're working on evolution, not repair.</p>
+                    <h4 data-i18n="why.therapist.h">vs. Therapist</h4>
+                    <p data-i18n="why.therapist.p1">Therapy takes you from "not okay" to "okay." Important work, and if that's what you need, do that.</p>
+                    <p class="highlight" data-i18n="why.therapist.p2"><strong>This is "okay" to "next level."</strong> You're already functioning. We're working on evolution, not repair.</p>
                 </div>
                 <div class="alternative">
-                    <h4>vs. Friends, Partner, Co-founder</h4>
-                    <p>They're too close. They have stakes in your decisions. You can't say "I'm afraid I can't handle this" without consequences.</p>
-                    <p class="highlight"><strong>I have zero stake in your decisions.</strong> Complete confidentiality. Nothing you say will be shared with anyone or used against you.</p>
+                    <h4 data-i18n="why.friends.h">vs. Friends, Partner, Co-founder</h4>
+                    <p data-i18n="why.friends.p1">They're too close. They have stakes in your decisions. You can't say "I'm afraid I can't handle this" without consequences.</p>
+                    <p class="highlight" data-i18n="why.friends.p2"><strong>I have zero stake in your decisions.</strong> Complete confidentiality. Nothing you say will be shared with anyone or used against you.</p>
                 </div>
                 <div class="alternative">
-                    <h4>vs. Other Coaches</h4>
-                    <p>Many business coaches stay surface-level — tactics and frameworks. Many "transformational" coaches are abstract and slow.</p>
-                    <p class="highlight"><strong>I integrate both.</strong> Depth modalities with the pragmatism of someone who's actually built things in tech.</p>
+                    <h4 data-i18n="why.coaches.h">vs. Other Coaches</h4>
+                    <p data-i18n="why.coaches.p1">Many business coaches stay surface-level — tactics and frameworks. Many "transformational" coaches are abstract and slow.</p>
+                    <p class="highlight" data-i18n="why.coaches.p2"><strong>I integrate both.</strong> Depth modalities with the pragmatism of someone who's actually built things in tech.</p>
                 </div>
             </div>
         </div>
@@ -128,27 +132,27 @@
     <section class="section section-dark">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">How It Works</span>
-                <h2>Format & approach</h2>
+                <span class="section-label" data-i18n="how.label">How It Works</span>
+                <h2 data-i18n="how.title">Format & approach</h2>
             </div>
             <div class="two-column">
                 <div class="column-card">
-                    <h3>Format</h3>
+                    <h3 data-i18n="how.format.h">Format</h3>
                     <ul class="format-list">
-                        <li><strong>1:1 sessions</strong>, 60 minutes each</li>
-                        <li><strong>Every week</strong>, adjusted to what's happening in your life</li>
-                        <li><strong>3-6 months</strong> is typical</li>
-                        <li><strong>No curriculum.</strong> You bring what's on your mind. The stuff that matters to you right now is where the work happens.</li>
+                        <li data-i18n="how.format.1"><strong>1:1 sessions</strong>, 60 minutes each</li>
+                        <li data-i18n="how.format.2"><strong>Every week</strong>, adjusted to what's happening in your life</li>
+                        <li data-i18n="how.format.3"><strong>3-6 months</strong> is typical</li>
+                        <li data-i18n="how.format.4"><strong>No curriculum.</strong> You bring what's on your mind. The stuff that matters to you right now is where the work happens.</li>
                     </ul>
                 </div>
                 <div class="column-card">
-                    <h3>How I Work</h3>
-                    <p class="method-intro">We work with whatever you bring. Sometimes that's a concrete decision you need to make this week. Sometimes it goes deeper — into the patterns and beliefs underneath. I draw from several approaches to go wherever the session needs to go:</p>
+                    <h3 data-i18n="how.method.h">How I Work</h3>
+                    <p class="method-intro" data-i18n="how.method.intro">We work with whatever you bring. Sometimes that's a concrete decision you need to make this week. Sometimes it goes deeper — into the patterns and beliefs underneath. I draw from several approaches to go wherever the session needs to go:</p>
                     <ul class="format-list">
-                        <li><strong>ICF coaching fundamentals</strong> — listening, asking questions, creating space for you to think clearly and find your own answers</li>
-                        <li><strong>Body awareness</strong> — patterns show up in your body before your mind catches up. Sometimes we need to go there.</li>
-                        <li><strong>Parts work (IFS)</strong> — understanding the competing voices inside you instead of fighting them</li>
-                        <li><strong>Meditation Practice</strong> — shapes how I show up: the ability to sit with discomfort without rushing to fix it</li>
+                        <li data-i18n="how.method.1"><strong>ICF coaching fundamentals</strong> — listening, asking questions, creating space for you to think clearly and find your own answers</li>
+                        <li data-i18n="how.method.2"><strong>Body awareness</strong> — patterns show up in your body before your mind catches up. Sometimes we need to go there.</li>
+                        <li data-i18n="how.method.3"><strong>Parts work (IFS)</strong> — understanding the competing voices inside you instead of fighting them</li>
+                        <li data-i18n="how.method.4"><strong>Meditation Practice</strong> — shapes how I show up: the ability to sit with discomfort without rushing to fix it</li>
                     </ul>
                 </div>
             </div>
@@ -158,31 +162,31 @@
     <section class="section" id="testimonials">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">What Clients Say</span>
-                <h2>Words from people I've worked with</h2>
+                <span class="section-label" data-i18n="testimonials.label">What Clients Say</span>
+                <h2 data-i18n="testimonials.title">Words from people I've worked with</h2>
             </div>
             <div class="testimonials-grid">
                 <div class="testimonial-card">
                     <blockquote class="testimonial-quote">
-                        <p>Quick shoutout to coach Rustam. We've had a few sessions recently — and I really appreciated his ability to create space, ask the right questions, and help make sense of what's going on. No pressure, no clichés — just calm, thoughtful guidance. If you're navigating change or just need more clarity, definitely worth talking to him.</p>
+                        <p data-i18n="testimonial.rasul">Quick shoutout to coach Rustam. We've had a few sessions recently — and I really appreciated his ability to create space, ask the right questions, and help make sense of what's going on. No pressure, no clichés — just calm, thoughtful guidance. If you're navigating change or just need more clarity, definitely worth talking to him.</p>
                     </blockquote>
                     <a href="https://www.linkedin.com/in/rasul-allanazarov-41556a243/" target="_blank" rel="noopener" class="testimonial-author">
                         <img src="media/rasul.jpeg" alt="Rasul Allanazarov" class="testimonial-photo">
                         <div class="testimonial-author-info">
                             <span class="testimonial-name">Rasul Allanazarov</span>
-                            <span class="testimonial-role">Android Developer</span>
+                            <span class="testimonial-role" data-i18n="testimonial.rasul.role">Android Developer</span>
                         </div>
                     </a>
                 </div>
                 <div class="testimonial-card">
                     <blockquote class="testimonial-quote">
-                        <p>As a coach, Rustam knows how to listen, ask the right questions, and gently guide you in the right direction. After sessions with him, you genuinely gain clarity and confidence about where to go next. If you want to grow professionally and personally — having a coach makes it so much easier. Highly recommend.</p>
+                        <p data-i18n="testimonial.samira">As a coach, Rustam knows how to listen, ask the right questions, and gently guide you in the right direction. After sessions with him, you genuinely gain clarity and confidence about where to go next. If you want to grow professionally and personally — having a coach makes it so much easier. Highly recommend.</p>
                     </blockquote>
                     <a href="https://www.linkedin.com/in/samiralatipova/" target="_blank" rel="noopener" class="testimonial-author">
                         <img src="media/samira.jpeg" alt="Samira Latipova" class="testimonial-photo">
                         <div class="testimonial-author-info">
                             <span class="testimonial-name">Samira Latipova</span>
-                            <span class="testimonial-role">Founder, Community Builder</span>
+                            <span class="testimonial-role" data-i18n="testimonial.samira.role">Founder, Community Builder</span>
                         </div>
                     </a>
                 </div>
@@ -194,45 +198,46 @@
         <canvas id="cta-canvas" style="opacity:0;background:transparent"></canvas>
         <div class="container">
             <div class="cta-content">
-                <span class="section-label">Start Here</span>
-                <h2>Free First Session</h2>
+                <span class="section-label" data-i18n="cta.label">Start Here</span>
+                <h2 data-i18n="cta.title">Free First Session</h2>
                 <div class="cta-steps">
                     <div class="cta-step">
                         <div>
-                            <h4>The first session</h4>
-                            <p>60 minutes. Bring something real — a decision you're stuck on, a pattern you want to understand, a situation you're navigating.</p>
-                            <p>This isn't a pitch. It's actual coaching.</p>
-                            <p>You'll leave with clarity on whatever you bring, whether we continue or not.</p>
+                            <h4 data-i18n="cta.step1.h">The first session</h4>
+                            <p data-i18n="cta.step1.p1">60 minutes. Bring something real — a decision you're stuck on, a pattern you want to understand, a situation you're navigating.</p>
+                            <p data-i18n="cta.step1.p2">This isn't a pitch. It's actual coaching.</p>
+                            <p data-i18n="cta.step1.p3">You'll leave with clarity on whatever you bring, whether we continue or not.</p>
                         </div>
                     </div>
                     <div class="cta-step">
                         <div>
-                            <h4>If it's a fit</h4>
-                            <p>We figure out logistics and get started. Usually every week, adjusted based on what's going on in your life.</p>
-                            <p>No long-term commitments — we keep going as long as the work is useful.</p>
-                            <p>Most clients stay for 3–6 months, some longer.</p>
+                            <h4 data-i18n="cta.step2.h">If it's a fit</h4>
+                            <p data-i18n="cta.step2.p1">We figure out logistics and get started. Usually every week, adjusted based on what's going on in your life.</p>
+                            <p data-i18n="cta.step2.p2">No long-term commitments — we keep going as long as the work is useful.</p>
+                            <p data-i18n="cta.step2.p3">Most clients stay for 3–6 months, some longer.</p>
                         </div>
                     </div>
                     <div class="cta-step">
                         <div>
-                            <h4>The work</h4>
-                            <p>Each session, you bring what's on your mind. We go where it needs to go.</p>
-                            <p>Over time, things shift. Decisions get clearer. Old patterns loosen.</p>
-                            <p>You start showing up differently — not through willpower, but because something has actually changed.</p>
+                            <h4 data-i18n="cta.step3.h">The work</h4>
+                            <p data-i18n="cta.step3.p1">Each session, you bring what's on your mind. We go where it needs to go.</p>
+                            <p data-i18n="cta.step3.p2">Over time, things shift. Decisions get clearer. Old patterns loosen.</p>
+                            <p data-i18n="cta.step3.p3">You start showing up differently — not through willpower, but because something has actually changed.</p>
                         </div>
                     </div>
                 </div>
-                <a href="https://cal.com/kensay/free-session" target="_blank" class="btn btn-primary btn-large">Book Your Free Session</a>
+                <a href="https://cal.com/kensay/free-session" target="_blank" class="btn btn-primary btn-large" data-i18n="cta.book">Book Your Free Session</a>
             </div>
         </div>
     </section>
 
     <footer>
         <div class="container">
-            <p>Rustam Babadjanov · Coaching for Those Who Build</p>
-            <p class="footer-meta">English & Russian · Virtual sessions worldwide</p>
+            <p data-i18n="footer.main">Rustam Babadjanov · Coaching for Those Who Build</p>
+            <p class="footer-meta" data-i18n="footer.meta">English & Russian · Virtual sessions worldwide</p>
         </div>
     </footer>
+    <script src="i18n.js"></script>
     <script type="module" src="nurbs-hero.js"></script>
     <script type="module" src="nurbs-sections.js"></script>
     <script>
