@@ -54,8 +54,12 @@ const NUM_POINTS = 20;
 const DEGREE = 3;
 const SEGMENTS = 1000;
 
+let isMobile = window.innerWidth <= 600;
+
 const curveSeeds = [4271, 8839, 1597, 6263, 3407, 9721, 5113];
-const curveOpacities = [0.12, 0.18, 0.10, 0.15, 0.08, 0.14, 0.06];
+const curveOpacities = isMobile
+    ? [0.04, 0.06, 0.03, 0.05, 0.03, 0.04, 0.02]
+    : [0.24, 0.34, 0.20, 0.28, 0.16, 0.26, 0.12];
 const curveWidths = [1.5, 2.0, 1.2, 1.8, 1.0, 1.6, 1.0];
 
 const curveMeshes = [];
@@ -132,8 +136,6 @@ for (let i = 0; i < CURVE_COUNT; i++) {
 }
 
 // ── Responsive offset ─────────────────────────────────────────────
-let isMobile = window.innerWidth <= 600;
-
 function updateScenePosition() {
     isMobile = window.innerWidth <= 600;
     group.position.x = isMobile ? 0 : 0;
@@ -153,6 +155,18 @@ function onPointerMove(event) {
     targetRotationX = -y * 0.4;
 }
 window.addEventListener('pointermove', onPointerMove, { passive: true });
+
+// ── Scroll tracking ──────────────────────────────────────────────
+let scrollProgress = 0;
+let smoothScroll = 0;
+
+function getHeroScrollProgress() {
+    if (!hero) return 0;
+    const rect = hero.getBoundingClientRect();
+    // 0 at top, 1 when hero is fully scrolled past
+    const raw = -rect.top / rect.height;
+    return Math.max(0, Math.min(1, raw));
+}
 
 // ── Resize ────────────────────────────────────────────────────────
 let resizeTimeout;
@@ -193,16 +207,23 @@ const observer = new IntersectionObserver(
 if (hero) observer.observe(hero);
 
 // ── Animation loop ────────────────────────────────────────────────
+const baseGroupY = group.position.y;
+
 function rebuildCurve(index) {
     const base = baseControlPoints[index];
     const knots = curveKnots[index];
     const time = performance.now() * 0.001;
 
+    // Scroll modulates sway: less motion as user scrolls away
+    const scrollFade = 1 - smoothScroll * 0.25; // 1 → 0.75
+    // Scroll pushes curves upward as hero scrolls out
+    const scrollPush = smoothScroll * 8;
+
     const controlPoints = base.map((bp, j) => {
         const t = j / (NUM_POINTS - 1);
-        const swayX = Math.sin(time * 0.3 + index * 0.7 + t * 2) * 3;
-        const swayY = Math.cos(time * 0.25 + index * 0.5 + t * 1.5) * 2;
-        const swayZ = Math.sin(time * 0.2 + index * 0.9 + t * 3) * 2;
+        const swayX = Math.sin(time * 0.3 + index * 0.7 + t * 2) * 3 * scrollFade;
+        const swayY = Math.cos(time * 0.25 + index * 0.5 + t * 1.5) * 2 * scrollFade + scrollPush * t;
+        const swayZ = Math.sin(time * 0.2 + index * 0.9 + t * 3) * 2 * scrollFade;
         return new THREE.Vector4(bp.x + swayX, bp.y + swayY, bp.z + swayZ, bp.w);
     });
 
@@ -217,9 +238,20 @@ function animate() {
     requestAnimationFrame(animate);
     if (!isVisible) return;
 
+    // Update scroll
+    scrollProgress = getHeroScrollProgress();
+    smoothScroll += (scrollProgress - smoothScroll) * 0.03;
+
     // Smooth lerp towards mouse target
     group.rotation.y += (targetRotationY - group.rotation.y) * 0.05;
     group.rotation.x += (targetRotationX - group.rotation.x) * 0.05;
+
+    // Scroll-driven rotation (tilt as scrolling down)
+    group.rotation.x += smoothScroll * 0.12;
+    group.rotation.z = smoothScroll * -0.04;
+
+    // Scroll-driven parallax
+    group.position.y = baseGroupY + smoothScroll * -25;
 
     for (let i = 0; i < CURVE_COUNT; i++) {
         rebuildCurve(i);

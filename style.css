@@ -286,6 +286,42 @@ nav {
     content: "// ";
 }
 
+/* Section canvases — shared base */
+#about-canvas,
+#cta-canvas {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+    background: transparent;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+#about-canvas.ready,
+#cta-canvas.ready {
+    opacity: 1;
+}
+
+/* About canvas — right-aligned like hero */
+#about-canvas {
+    right: 0;
+    width: 55%;
+}
+
+/* CTA canvas — centered behind content */
+#cta-canvas {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70%;
+}
+
+.section-about {
+    overflow: hidden;
+}
+
 /* About Text */
 .about-text {
     max-width: 800px;
@@ -545,6 +581,7 @@ nav {
     padding: var(--space-10) 0;
     background: var(--bg-primary);
     z-index: 1;
+    overflow: hidden;
 }
 
 .cta-content {
@@ -687,7 +724,21 @@ footer p {
         width: 100%;
         left: 0;
         right: 0;
-        opacity: 0.4;
+        opacity: 0.06;
+    }
+
+    #about-canvas {
+        width: 100%;
+        left: 0;
+        right: 0;
+        opacity: 0.2;
+    }
+
+    #cta-canvas {
+        width: 100%;
+        left: 0;
+        transform: none;
+        opacity: 0.2;
     }
 
     .hero-photo {
