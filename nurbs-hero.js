@@ -31,7 +31,7 @@ renderer.setClearColor(0x000000, 0);
 // ── Scene & Camera ────────────────────────────────────────────────
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(50, 1, 1, 2000);
-camera.position.set(0, 150, 450);
+camera.position.set(0, 150, 520);
 
 const group = new THREE.Group();
 group.position.y = 50;
@@ -250,8 +250,10 @@ function animate() {
     group.rotation.x += smoothScroll * 0.12;
     group.rotation.z = smoothScroll * -0.04;
 
-    // Scroll-driven parallax
-    group.position.y = baseGroupY + smoothScroll * -25;
+    // Scroll-driven parallax (horizontal drift)
+    group.position.x = 0;
+    group.position.y = baseGroupY;
+    group.position.z = smoothScroll * -120;
 
     for (let i = 0; i < CURVE_COUNT; i++) {
         rebuildCurve(i);
