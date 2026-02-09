@@ -15,18 +15,16 @@
 
 ## Who I Am
 
-I'm Rustam Babadjanov. I started coding at 16 as a freelance web developer in Uzbekistan, and since then I've worn most of the hats that exist in tech companies: software engineer, senior engineer, lead product manager, engineering manager.
+I believe the best coaching happens when two people go deep together — not as guru and client, but as partners. I bring curiosity, directness, and a willingness to sit in the uncomfortable places where real change lives.
 
-I co-founded YamFood in 2019—bootstrapped it with $20K, pivoted from B2C to B2B logistics when the market told us to. Later, at Express24 (which was acquired by Yandex), I helped build a product that reached 100K+ monthly active users and $50M in annual revenue. I established data-driven culture and OKRs as Lead PM. As an engineer, I optimized systems that couldn't afford to break. As an engineering manager, I led cross-functional teams through the complexity of fast growth.
+Every session is an experiment. We might work with a decision that's keeping you up at night, or go underneath it into the patterns and parts driving it. I follow what's alive, not a script.
 
-I've been inside the chaos. The decisions that keep you up at 3am. The patterns you can see but can't seem to change. The loneliness that comes with being responsible for everything while having no one you can be fully honest with.
+I come from the world I coach in. I co-founded a startup, built products at a company acquired by Yandex, and led teams through the chaos of fast growth. I know what it's like to carry the weight of decisions with nobody to be honest with.
 
-Today, I coach leaders. I've had a private coaching practice since 2024 and am currently completing my ICF accreditation (started 2025, completing 2026). My approach is shaped by two Vipassana meditation courses, training in communications and coaching talk, and deep study of modalities that actually create lasting change.
-
-I'm also building Growy AI—a platform for team alignment and organizational growth. I stay close to the startup world not just as a coach, but as someone still building.
+I've been coaching since 2024 and I'm completing my ICF accreditation in 2026. My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. I'm also building ttune.ai — I'm still in the startup world, not coaching from the outside.
 
 **Languages:** English and Russian
-**Geography:** Global (virtual sessions)
+**Geography:** Global (virtual sessions worldwide)
 
 ---
 
@@ -35,130 +33,96 @@ I'm also building Growy AI—a platform for team alignment and organizational gr
 ### Format
 
 - **1:1 coaching sessions** — 60 minutes each
+- **Session frequency** — every week, adjusted to what's happening in your life
 - **Engagement length** — typically 3-6 months
-- **Session approach** — we work with what you bring. Each session explores your current challenges, decisions, and patterns. There's no fixed curriculum—because what matters most to you right now is where the real work happens.
+- **No curriculum** — you bring what's on your mind. The stuff that matters to you right now is where the work happens.
 
-### Methodology
+### How I Work
 
-My approach blends several modalities, integrated in a way that serves practical transformation:
+We work with whatever you bring. Sometimes that's a concrete decision you need to make this week. Sometimes it goes deeper — into the patterns and beliefs underneath. I draw from several approaches to go wherever the session needs to go:
 
-**ICF Core Coaching Competencies**
-The foundation: active listening, powerful questions, direct communication, partnership. The structure that creates space for you to think clearly and find your own answers.
+**ICF coaching fundamentals**
+Listening, asking questions, creating space for you to think clearly and find your own answers.
 
-**Somatic Modalities (Body-Based Awareness)**
-Patterns don't just live in your head. Stress, avoidance, reactivity—they show up in your body before your mind catches up. We use body awareness to access insights that thinking alone can't reach.
+**Body awareness**
+Patterns show up in your body before your mind catches up. Sometimes we need to go there.
 
-**Internal Family Systems (IFS/Parts Work)**
-You're not one thing. There's a part of you that wants to take the risk, and a part that's terrified. A part that's ambitious, and a part that says you don't deserve it. Instead of fighting these parts, we learn to understand them. That's where real change begins.
+**Parts work (IFS)**
+Understanding the competing voices inside you instead of fighting them.
 
-**Vipassana Meditation Practice**
-My foundation. Not something I teach, but something that shapes how I hold space. Equanimity, presence, the capacity to sit with discomfort without rushing to fix it.
-
-This blend means we can move from practical decision-making to deeper pattern work in the same session—whatever serves you best.
+**Meditation Practice**
+Shapes how I show up: the ability to sit with discomfort without rushing to fix it.
 
 ---
 
 ## Who This Is For
 
-### The People I Serve
+### Ready to Go Deeper
 
-**Ambitious professionals who are ready to grow.**
-
-You've achieved real things. You're not broken, not in crisis, not looking for therapy. But you know there's a next level—in your leadership, in how you show up, in who you're becoming—and you want support getting there.
+You're accomplished and capable. You don't need fixing — you want partnership. Someone to think with, experiment with, and go beneath the surface with. Because the next level isn't about working harder. It's about seeing clearer.
 
 You might be:
-- A **startup founder** navigating the loneliness and high-stakes decisions that come with building something
-- A **leader in transition**—stepping into a bigger role, changing companies, or figuring out what's next
-- Someone facing **leadership challenges**—managing people, handling conflict, communicating with stakeholders who don't think like you
-- Someone stuck in **patterns**—you can see them, you know they're costing you, but you haven't been able to change them alone
-- Someone dealing with **inner blocks**—imposter syndrome, self-doubt, the voice that says you don't belong or can't handle it
-- Someone making **high-stakes decisions** in uncertain conditions, wanting a thinking partner who has no agenda
+- A **founder** dealing with the loneliness and the weight of decisions nobody else can make
+- A **leader in transition**, stepping into a bigger role or figuring out what's next
+- Someone struggling with **people stuff**: managing, conflict, communicating with stakeholders who don't think like you
+- Someone stuck in **patterns** you can see but can't seem to stop
+- Someone dealing with **imposter syndrome**, self-doubt, the voice that says you don't belong
+- Someone making **hard calls** with incomplete information, wanting a thinking partner who doesn't have a stake in your decision
 
-### Who This Isn't For
+### Not a Fit If:
 
-- People in acute crisis who need clinical support (therapy is the right choice)
-- People looking for someone to tell them what to do (mentors and advisors are better for that)
-- People who want quick fixes or life hacks (transformation takes time and commitment)
-
----
-
-## The Transformation
-
-### Where You Start
-
-**Externally, things look fine.** You've built something real—a company, a career, a reputation. You're capable, driven, accomplished.
-
-**Internally, it's more complicated:**
-
-- Decisions pile up because you can't think through them clearly, or you're afraid of being wrong
-- The same patterns keep showing up—in relationships, in how you lead, in how you react under stress—and you can see them but can't seem to stop them
-- There's a gap between how you show up and who you want to be
-- You feel alone with the hard stuff—the fears, the doubts, the questions you can't ask anyone
-- You're performing "strong" or "capable" when inside you feel like a fraud
-- You sense there's a next level, but you don't know how to reach it
-
-### What Becomes Possible
-
-**Clarity.** The decision you've been avoiding? You'll see it clearly, with your blind spots visible, and make a choice you can stand behind.
-
-**Changed patterns.** The behaviors that keep costing you—relationships, opportunities, peace of mind—you'll understand why they exist and find a new way.
-
-**Owned decisions.** Not advice-driven choices you second-guess, but decisions that feel truly yours. You'll stop waiting for permission and start trusting yourself.
-
-**Presence.** The capacity to stay calm when things are hard. To sit with uncertainty without being consumed by it. To lead from groundedness instead of reactivity.
-
-**Not being alone.** Someone who knows who you really are—beyond the role, beyond the performance—and holds that with complete confidentiality and zero judgment.
-
-**Growth.** Becoming the leader you need to be for what's next—without losing yourself in the process.
+- You're in crisis and need clinical support. That's what therapy is for.
+- You want someone to tell you what to do. Get a mentor or advisor.
+- You want quick fixes. This takes time.
 
 ---
 
-## Why Me vs. Alternatives
+## Why Coaching, Not Something Else
 
 ### vs. Mentor or Advisor
 
-Mentors give you their answer from their experience with their biases. Advisors often have a stake—they want outcomes that benefit them. You get advice, and advice is useful, but it's not thinking space. And you can't be fully honest with them about fears or doubts—they're evaluating whether you're "leadership material."
+They give you their answer, from their experience, with their biases. You can't be fully honest about fears or doubts — they're evaluating whether you're "leadership material."
 
-**Coaching gives you your answer**, uncovered through questions, reflection, and challenge—an answer you can own because it came from you.
+**Coaching gives you your answer** — uncovered through questions and challenge. An answer you own because it came from you.
 
 ### vs. Therapist
 
-Therapy is designed to take you from "not okay" to "okay." It addresses pathology, trauma, dysfunction. It's important work, and if that's what you need, therapy is the right choice.
+Therapy takes you from "not okay" to "okay." Important work, and if that's what you need, do that.
 
-**This work is "okay" to "awesome."** You're already functioning, already successful. We're working on evolution, not repair. Transformation without treating you as broken.
+**This is "okay" to "next level."** You're already functioning. We're working on evolution, not repair.
 
 ### vs. Friends, Partner, or Co-founder
 
-They're too close. They have stakes in your decisions and emotional investment in certain outcomes. You can't say "I'm afraid I can't handle this" without consequences—scaring them, damaging the relationship, losing credibility.
+They're too close. They have stakes in your decisions. You can't say "I'm afraid I can't handle this" without consequences.
 
-**I have zero stake in your decisions.** Complete confidentiality. Nothing you say will be used against you, shared with anyone, or change how I see you.
+**I have zero stake in your decisions.** Complete confidentiality. Nothing you say will be shared with anyone or used against you.
 
 ### vs. Other Coaches
 
-Many business coaches stay surface-level—tactics, tips, frameworks. Many "transformational" coaches are abstract and slow—years of work before anything changes.
+Many business coaches stay surface-level — tactics and frameworks. Many "transformational" coaches are abstract and slow.
 
-**I integrate both.** The depth of real modalities (IFS, somatic work, developmental theory) with the pragmatism of someone who's actually built things. Grounded in firsthand tech and startup experience, not just theory.
+**I integrate both.** Depth modalities with the pragmatism of someone who's actually built things in tech.
 
 ---
 
 ## How to Start
 
-### The Path to Working Together
+### A Real Session, Not a Sales Call
 
-**1. Free Intro Session (60 minutes)**
-Bring something real—a decision you're stuck on, a pattern you want to understand, a situation you're navigating. You'll get a taste of how this works and clarity on whatever you bring. No sales pitch. Whether we continue or not, you'll walk away with something useful.
+**1. Free First Session (60 minutes)**
+Bring something real: a decision you're stuck on, a pattern you want to understand, a situation you're navigating. This isn't a pitch. It's actual coaching. You'll leave with clarity on whatever you bring, whether we continue or not.
 
-**2. If There's a Fit**
-We'll discuss engagement structure, logistics, and get started. Typically we begin with sessions every two weeks, adjusting based on what's happening in your life and work.
+**2. If It's a Fit**
+We figure out logistics and get started. Usually every week, adjusted based on what's going on in your life.
 
 **3. The Work**
-Each session, you bring what's alive for you. We go wherever it needs to go—practical decisions, deeper patterns, both. Over time, you'll notice shifts. Decisions get clearer. Old patterns loosen. You start showing up differently—not through effort, but because something has actually changed.
+Each session, you bring what's on your mind. We go where it needs to go. Over time, things shift. Decisions get clearer. Old patterns loosen. You start showing up differently — not through willpower, but because something has actually changed.
 
 ---
 
 # Startup Founders Version
 
-## Transformational Coaching for Founders
+## Coaching for Those Who Build
 
 *For founders at 5-100 people*
 
@@ -195,11 +159,11 @@ Lost your third key hire to the same dynamic? Micromanaging when you know you sh
 
 ### Who I Am
 
-I've been where you are. I co-founded YamFood—bootstrapped $20K, pivoted from B2C to B2B logistics. At Express24 (acquired by Yandex), I helped build a product that reached 100K+ MAU and $50M in annual revenue. I've been the one making decisions alone at 3am, losing people to patterns I couldn't see until someone helped me look.
+I come from the world I coach in. I co-founded a startup, built products at a company acquired by Yandex, and led teams through the chaos of fast growth. I've been the one making decisions alone at 3am, losing people to patterns I couldn't see until someone helped me look.
 
 I do this work because I know what it's like to have no one you can be fully honest with at the top. And I've seen how much changes when you finally do—for you, your team, and what you're building.
 
-My approach blends ICF core coaching competencies, somatic modalities, Internal Family Systems, and a foundation in Vipassana meditation practice. The depth of real transformation modalities with the pragmatism founders need.
+My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. Depth modalities with the pragmatism founders need.
 
 ---
 
@@ -221,9 +185,9 @@ My approach blends ICF core coaching competencies, somatic modalities, Internal 
 
 ### The Format
 
-- **60-minute sessions**, typically every two weeks
+- **60-minute sessions**, every week, adjusted to what's happening
 - **3-6 month engagements** — enough time for real transformation
-- **We work with what you bring** — no fixed curriculum, just what matters most right now
+- **No curriculum** — you bring what's on your mind, that's where the work happens
 - **Complete confidentiality** — nothing leaves the session, ever
 
 ---
@@ -231,10 +195,10 @@ My approach blends ICF core coaching competencies, somatic modalities, Internal 
 ### Why This, Not Something Else
 
 **vs. Mentor or Advisor**
-They give you their answer. Their biases. Sometimes their agenda. You can't be fully honest about fears or doubts—they're judging if you're "CEO material." I give you your answer, found through your own thinking with my support.
+They give you their answer, from their experience, with their biases. You can't be fully honest about fears or doubts—they're evaluating whether you're "leadership material." Coaching gives you your answer, found through your own thinking with my support.
 
 **vs. Therapist**
-Therapy is "not okay → okay." You're not broken—you're already successful and want the next level. This is "okay → awesome": transformation without pathology.
+Therapy takes you from "not okay" to "okay." You're not broken—you're already successful and want the next level. This is "okay" to "next level": evolution, not repair.
 
 **vs. Co-founder, partner, or friend**
 They're too close. You can't say "I'm afraid I won't handle the Series B" without consequences. I have zero stake. Nothing you say changes how I see you.
@@ -243,9 +207,9 @@ They're too close. You can't say "I'm afraid I won't handle the Series B" withou
 
 ### Start Here
 
-**Free 60-minute intro session.**
+**A real session, not a sales call.**
 
-Bring a real decision you're stuck on or a pattern you want to change. You'll walk away with clarity and a feel for how this works—whether we continue or not.
+60 minutes. Bring something real: a decision you're stuck on, a pattern you want to understand, a situation you're navigating. You'll leave with clarity on whatever you bring, whether we continue or not.
 
 No sales pitch. No pressure. Just a sample of what it's like to think with someone who understands startup context and has no agenda in your decisions.
 
@@ -253,18 +217,18 @@ No sales pitch. No pressure. Just a sample of what it's like to think with someo
 
 # Ambitious Professionals Version
 
-## Coaching for Leaders Ready to Grow
+## Coaching for Those Who Build
 
-*Become the leader you're meant to be*
+*A space to go deep with someone who gets it*
 
 ### You've Achieved Real Things
 
-Your career is working. You've built something—skills, reputation, results. From the outside, you're succeeding.
+You're accomplished and capable. You don't need fixing — you want partnership. Someone to think with, experiment with, and go beneath the surface with. Because the next level isn't about working harder. It's about seeing clearer.
 
 But inside, there's something else:
 
 - A sense that there's a next level you can't quite reach
-- Patterns that keep showing up—in how you lead, how you communicate, how you handle conflict—that you can see but can't seem to change
+- Patterns that keep showing up—in how you lead, how you communicate, how you handle conflict—that you can see but can't seem to stop
 - Transitions you're navigating—a new role, a bigger scope, a shift in what you want—without a clear map
 - Inner voices that question whether you belong, whether you can handle it, whether you've just been lucky
 - The loneliness of leadership—people around you who depend on you, but no one you can be fully honest with
@@ -275,11 +239,11 @@ You're not looking for therapy. You're not broken. But you know there's work to 
 
 ### What This Is
 
-**A space for the growth you can't do alone.**
+**A space to go deep with someone who gets it.**
 
-Most development happens at the surface: skills, tactics, frameworks. Useful, but it doesn't touch the real stuff—the patterns, the beliefs, the fears that actually drive how you show up.
+We work as partners — exploring what's really going on, running experiments, and finding what actually shifts things. No agenda, no advice. Just the kind of honest work that changes how you lead and live.
 
-This work goes deeper. Through 1:1 coaching sessions, we explore what's really happening for you:
+Through 1:1 coaching sessions, we explore what's really happening for you:
 
 **Clarity in complexity.**
 When everything feels tangled, we untangle it. The decision you're avoiding becomes clear. The problem you couldn't articulate gets named. You find your own answer—one you can actually own.
@@ -297,13 +261,13 @@ With me, you can say the things you can't say elsewhere. The fears. The doubts. 
 
 ### Who I Am
 
-I'm Rustam Babadjanov. I've worked across roles in tech—engineer, product lead, engineering manager, co-founder—at companies from early-stage startups to a $50M revenue business acquired by Yandex. I know what it's like to lead under pressure, to make decisions with incomplete information, to carry responsibility for things you can't fully control.
+I believe the best coaching happens when two people go deep together — not as guru and client, but as partners. I bring curiosity, directness, and a willingness to sit in the uncomfortable places where real change lives.
 
-I've been coaching since 2024 and am completing my ICF accreditation in 2026. My approach integrates ICF core competencies with somatic modalities (body-based awareness), Internal Family Systems (parts work), and a foundation in Vipassana meditation practice.
+I come from the world I coach in. I co-founded a startup, built products at a company acquired by Yandex, and led teams through the chaos of fast growth. I know what it's like to carry the weight of decisions with nobody to be honest with.
 
-This blend matters because change that lasts doesn't just come from talking about things differently. It comes from understanding how patterns live in your body, how different parts of you have different needs, and how to create the inner conditions for transformation.
+I've been coaching since 2024 and I'm completing my ICF accreditation in 2026. My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. I'm also building ttune.ai — I'm still in the startup world, not coaching from the outside.
 
-I work globally, virtually, in English and Russian.
+English and Russian. Virtual sessions worldwide.
 
 ---
 
@@ -326,9 +290,9 @@ I work globally, virtually, in English and Russian.
 
 ### The Format
 
-- **60-minute 1:1 sessions**, typically every two weeks
+- **60-minute 1:1 sessions**, every week, adjusted to what's happening
 - **3-6 months** is the typical engagement—long enough for real transformation
-- **No fixed curriculum**—we work with what you bring, going wherever it needs to go
+- **No curriculum**—you bring what's on your mind, that's where the work happens
 - **Virtual sessions**, flexible scheduling
 
 ---
@@ -339,7 +303,7 @@ I work globally, virtually, in English and Russian.
 They give you their answers based on their experience. Useful for tactical questions, but it's not thinking space, and you can't be fully honest about your doubts. This work helps you find your own answers.
 
 **vs. Therapy**
-Therapy is for healing what's broken. This is for growth when you're already whole. "Okay → awesome," not "not okay → okay."
+Therapy is for healing what's broken. This is for growth when you're already whole. "Okay → next level," not "not okay → okay."
 
 **vs. Leadership Programs**
 Programs teach frameworks. This work changes patterns. Knowledge isn't usually the problem—implementation is. We work on the inner stuff that makes outer change possible.
@@ -351,9 +315,9 @@ You've probably been trying. How's it going? The patterns you can see but can't 
 
 ### Start Here
 
-**A free 60-minute session.**
+**A real session, not a sales call.**
 
-Bring something real—a transition you're navigating, a pattern you keep noticing, a challenge you're facing. We'll work with it together, and you'll get a taste of what this approach feels like.
+60 minutes. Bring something real—a transition you're navigating, a pattern you keep noticing, a challenge you're facing. We'll work with it together, and you'll get a taste of what this approach feels like.
 
 No sales pitch. Just a conversation that will give you something useful, whether we continue or not.
 
@@ -374,10 +338,10 @@ No sales pitch. Just a conversation that will give you something useful, whether
 - "No agenda. No stake in your decisions."
 
 **For broader audience:**
-- "Become the leader you're meant to be."
-- "Growth that goes deeper than frameworks and tactics."
+- "Coaching for Those Who Build."
+- "A space to go deep with someone who gets it."
 - "For ambitious professionals ready to transform, not just perform."
-- "The work that makes outer change possible."
+- "No agenda, no advice. Just the kind of honest work that changes how you lead and live."
 
 ---
 
@@ -396,11 +360,11 @@ The things you can't tell team, board, investors, or partner. Said, heard, held�
 
 ### For All Professionals
 
-**Growth Beyond Surface**
-Most development touches skills. This work touches patterns, beliefs, and who you're becoming.
+**Partnership, Not Guru**
+Not advice-driven. Not someone else's playbook. Two people going deep together as partners—exploring, experimenting, finding what shifts things.
 
 **Your Own Answers**
-Not advice-driven. Not someone else's playbook. Clarity you uncover yourself—answers you can truly own.
+Clarity you uncover yourself—answers you can truly own. No agenda, no stake in your decisions.
 
 **Not Alone**
 Someone who knows who you really are, beyond the role. Complete confidentiality. Zero agenda.
@@ -410,10 +374,11 @@ Someone who knows who you really are, beyond the role. Complete confidentiality.
 ## Differentiators
 
 **Why me specifically:**
-- **Firsthand experience**: Built companies, led teams, made high-stakes decisions—not just studied them
-- **Rare blend**: Technical credibility + depth modalities (IFS, somatic, contemplative)—most coaches have one or the other
+- **From the world I coach in**: Co-founded a startup, built products at a company acquired by Yandex, led teams through fast growth—not just studied them
+- **Still building**: Currently building ttune.ai—still in the startup world, not coaching from the outside
+- **Rare blend**: Formal coaching training + depth modalities (IFS, somatic work, meditation practice)—most coaches have one or the other
 - **No agenda**: I don't invest in founders, consult for companies, or have any stake in your decisions
-- **Okay → Awesome**: We work from strength, not pathology. You're not broken; you're evolving.
+- **Partnership model**: Not guru and client. Two people going deep together.
 
 ---
 
@@ -426,17 +391,17 @@ The higher you go, the fewer people you can be honest with. Having a thinking pa
 Complete confidentiality. Zero connections to your investors, board, or competitors. Everything said in sessions stays there—ever. This is the foundation. Without it, nothing works.
 
 **"I don't have time."**
-Two sessions per month—less than 1% of your working hours. The decision you've been avoiding for three weeks? Resolved in one session. The pattern that cost you your third key hire? Worth a few hours to fix. This multiplies your effectiveness; it doesn't drain your time.
+One session per week—the decision you've been avoiding for three weeks? Resolved in one session. The pattern that cost you your third key hire? Worth a few hours to fix. This multiplies your effectiveness; it doesn't drain your time.
 
 **"Is this woo-woo or just another coach?"**
-Fair skepticism. My approach integrates depth modalities (IFS, somatic work, developmental theory) with the pragmatism of someone who's actually built things. Research-backed. Measurable outcomes. Real transformation—not fluff.
+Fair skepticism. My approach draws on formal coaching training, somatic work, Internal Family Systems, and meditation practice—integrated with the pragmatism of someone who's actually built things. Real transformation, grounded in experience.
 
 ---
 
 ## CTA Blocks
 
 **Standard:**
-Book a free 60-minute intro session. Bring something real—a decision, a pattern, a situation you're navigating. You'll walk away with clarity, whether we continue or not.
+Book a free first session. 60 minutes. Bring something real: a decision, a pattern, a situation you're navigating. This isn't a pitch—it's actual coaching. You'll leave with clarity, whether we continue or not.
 
 **Founder-specific:**
 Bring a real decision you're stuck on or a pattern you want to change. No sales pitch. No pressure. Just a sample of what it's like to think with someone who understands startup context and has no stake in your decisions.
@@ -449,10 +414,10 @@ A free conversation to explore whether this could help. No commitment. Just see 
 ## About Section Variants
 
 **Short (2 sentences):**
-I'm Rustam Babadjanov. I've built companies, led teams, and made the kind of decisions that keep you up at 3am—and now I coach leaders through theirs.
+I'm Rustam Babadjanov. I come from the world I coach in—co-founded a startup, built products at a company acquired by Yandex, and now I coach leaders through the decisions and patterns I know firsthand.
 
 **Medium (for website/bio):**
-I'm Rustam Babadjanov. I started coding at 16, co-founded YamFood, and spent years at Express24 (acquired by Yandex) as engineer, product lead, and engineering manager. I've been inside the chaos of building things—the decisions, the patterns, the loneliness at the top. Now I coach leaders through theirs, blending ICF coaching competencies with somatic work, IFS, and contemplative practice. English and Russian. Global.
+I'm Rustam Babadjanov. I believe the best coaching happens when two people go deep together — not as guru and client, but as partners. I come from the world I coach in: co-founded a startup, built products at a company acquired by Yandex, led teams through the chaos of fast growth. My approach draws on formal coaching training, somatic work, Internal Family Systems, and years of meditation and internal work. I'm also building ttune.ai — still in the startup world, not coaching from the outside. English and Russian. Virtual sessions worldwide.
 
 **Full (for detailed pages):**
 *[Use the full "Who I Am" section from the Master Description]*
@@ -461,13 +426,13 @@ I'm Rustam Babadjanov. I started coding at 16, co-founded YamFood, and spent yea
 
 ## Social Proof/Credibility Elements
 
-- Co-founded YamFood (bootstrapped $20K, pivoted B2C → B2B)
-- Express24 (acquired by Yandex): 100K+ MAU, $50M annual revenue
+- Co-founded a startup (bootstrapped, pivoted B2C → B2B)
+- Built products at a company acquired by Yandex, led teams through fast growth
 - Roles held: Software Engineer, Senior Engineer, Lead Product Manager, Engineering Manager
-- ICF program (started 2025, completing 2026)
-- 2 Vipassana meditation courses
-- Building Growy AI (current)
+- Coaching since 2024, ICF accreditation completing 2026
+- Meditation practice and internal work
+- Currently building ttune.ai
 
 ---
 
-*Last updated: January 2026*
+*Last updated: February 2026*
