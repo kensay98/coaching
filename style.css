@@ -40,6 +40,7 @@
 
 html {
     scroll-behavior: smooth;
+    background: #000000;
 }
 
 body {
@@ -94,7 +95,7 @@ nav {
     left: 0;
     right: 0;
     z-index: 100;
-    padding: 16px 0;
+    padding: calc(env(safe-area-inset-top) + 16px) 0 16px;
     background: rgba(0, 0, 0, 0.8);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
