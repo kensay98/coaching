@@ -5,8 +5,9 @@
 - Active on Twitter/X and Telegram (not LinkedIn)
 - Bilingual practice: English + Russian
 - Beautiful website, but no acquisition engine
+- Dual-track positioning: founders (5-100) + ambitious leaders
 - Resend chosen for future email infrastructure
-- No website changes for now — pure strategy
+- No structural website changes for now — copy refinements are allowed
 
 ---
 
@@ -16,8 +17,8 @@
 
 | Channel | Language | Audience | Why it works |
 |---|---|---|---|
-| **Twitter/X** | English | Global/US/EU founders, indie builders, tech leaders | Raw, honest voice rewarded. Anti-corporate culture matches your coaching style. Founder Twitter is real and active. |
-| **Telegram** | Russian | CIS/RU-speaking founders, tech leaders | Tight-knit communities, high trust, referrals travel fast. Your people are already here. |
+| **Twitter/X** | English | Global founders + ambitious leaders | Raw, honest voice rewarded. Anti-corporate culture matches your coaching style. Founder Twitter is real and active. |
+| **Telegram** | Russian | CIS/RU-speaking founders + tech leaders | Tight-knit communities, high trust, referrals travel fast. Your people are already here. |
 
 ### Secondary channels (Phase 2+):
 | Channel | Purpose |
@@ -47,17 +48,25 @@ Your fastest path. People who already know and trust you.
 **Action list:**
 1. **Make a list of 30-50 people** from your network:
    - Founders (any stage)
-   - Tech leaders stepping into bigger roles
+   - Leaders stepping into bigger roles
    - People who've mentioned leadership struggles
    - Former colleagues now managing teams
    - Split: ~half EN-speaking, ~half RU-speaking
 
 2. **Send personal messages** (Telegram DMs, Twitter DMs, WhatsApp — wherever you naturally talk to them):
 
-   > "Hey [Name], I've been thinking about you. I started doing executive coaching for founders — basically being a thinking partner for the stuff you can't talk to your team or investors about. Given what you're dealing with at [company], thought it might be useful. I offer a free first session — not a sales call, actual coaching. Want to try it?"
+   **Founder version:**\n
+   > "Hey [Name], I've been thinking about you. I coach founders through the hard decisions and the people stuff you can't talk about with your team or investors. Given what you're dealing with at [company], thought it might be useful. I offer a free first session — not a sales call, actual coaching. Want to try it?"
+
+   **Leader version:**\n
+   > "Hey [Name], I've been thinking about you. I coach ambitious leaders who are carrying hard decisions and navigating people dynamics. Given what you're dealing with at [company], thought it might be useful. I offer a free first session — not a sales call, actual coaching. Want to try it?"
 
    For RU contacts:
-   > "Привет [Name], давно думал тебе написать. Я начал заниматься коучингом для фаундеров — по сути, быть thinking partner'ом для того, о чём нельзя поговорить с командой или инвесторами. Учитывая что у тебя происходит в [company], подумал что может быть полезно. Первая сессия бесплатная — не продажа, реальный коучинг. Хочешь попробовать?"
+   **Фаундер:**\n
+   > "Привет [Name], давно думал тебе написать. Я коучу фаундеров — по сути, быть thinking partner'ом для того, о чём нельзя поговорить с командой или инвесторами. Учитывая что у тебя происходит в [company], подумал что может быть полезно. Первая сессия бесплатная — не продажа, реальный коучинг. Хочешь попробовать?"
+
+   **Лидер:**\n
+   > "Привет [Name], давно думал тебе написать. Я коучу лидеров, которые несут сложные решения и постоянно в конфликте интересов. Учитывая что у тебя происходит в [company], подумал что может быть полезно. Первая сессия бесплатная — не продажа, реальный коучинг. Хочешь попробовать?"
 
 3. **Goal:** 15-20 conversations → 8-10 free sessions → 3-4 paying clients
 
@@ -72,8 +81,8 @@ Your fastest path. People who already know and trust you.
 Twitter rewards sharpness, honesty, and a distinct voice. Here's how to build from zero:
 
 **Week 1: Setup**
-- Bio: Keep it tight. Something like: "Coach founders through the internal stuff. Building @ttune_ai. Former [credibility signal]."
-- Pinned tweet: Your "why" story — why you coach, what you actually do, link to free session
+- Bio: Keep it tight. Something like: "Coach founders + ambitious leaders through the internal stuff. Building @ttune_ai. Former [credibility signal]."
+- Pinned tweet: Your "why" story — why you coach, who you serve, link to free session
 - Follow 100-200 accounts: founders, VCs, indie hackers, people in the build-in-public space
 
 **Week 1-2: Start posting (1-2x/day)**
@@ -89,6 +98,8 @@ Example tweets:
 > "The hardest conversation in your startup isn't with your board or your team. It's the one you're avoiding with yourself."
 
 > "Founders don't need more advice. They need someone who'll sit with them in the discomfort of not knowing."
+
+> "Leadership isn't about confidence. It's about being able to make a call while your body is screaming."
 
 > "'I just need to work harder' is the most expensive lie in startups."
 

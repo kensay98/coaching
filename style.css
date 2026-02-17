@@ -453,6 +453,36 @@ nav {
     margin-bottom: 32px;
 }
 
+.audience-split {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    margin-bottom: 40px;
+}
+
+.audience-track {
+    padding: 24px;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-primary);
+    border-radius: var(--radius-lg);
+}
+
+.audience-track h3 {
+    margin-bottom: 10px;
+    color: var(--text-primary);
+}
+
+.audience-track-sub {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 16px;
+}
+
+.audience-track .audience-list {
+    margin-bottom: 0;
+}
+
 .audience-content h3 {
     margin-bottom: 20px;
     color: var(--text-primary);
@@ -790,6 +820,10 @@ footer p {
         grid-template-columns: 1fr;
     }
 
+    .audience-split {
+        grid-template-columns: 1fr;
+    }
+
     .transformation {
         grid-template-columns: 1fr;
     }
@@ -894,4 +928,3 @@ footer p {
         margin-bottom: 40px;
     }
 }
-
