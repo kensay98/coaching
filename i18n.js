@@ -86,6 +86,29 @@
       "testimonial.samira": "As a coach, Rustam knows how to listen, ask the right questions, and gently guide you in the right direction. After sessions with him, you genuinely gain clarity and confidence about where to go next. If you want to grow professionally and personally — having a coach makes it so much easier. Highly recommend.",
       "testimonial.samira.role": "Founder, Community Builder",
 
+
+      // Lead magnet
+      "leadmagnet.label": "Free Resource",
+      "leadmagnet.title": "Get the Founder Clarity Reset",
+      "leadmagnet.sub": "A practical worksheet to untangle one hard decision in 15 minutes.",
+      "leadmagnet.card.title": "What's inside",
+      "leadmagnet.card.1": "A 5-question decision framework for founder-level calls",
+      "leadmagnet.card.2": "A loop-breaker prompt when you keep overthinking",
+      "leadmagnet.card.3": "A 10-minute debrief template to spot repeating patterns",
+      "leadmagnet.note": "You'll also get a short follow-up email sequence with practical prompts. Unsubscribe anytime.",
+      "leadmagnet.form.name": "First name",
+      "leadmagnet.form.namePlaceholder": "Alex",
+      "leadmagnet.form.email": "Email",
+      "leadmagnet.form.emailPlaceholder": "alex@company.com",
+      "leadmagnet.form.challenge": "Biggest challenge right now (optional)",
+      "leadmagnet.form.challengeOption0": "Choose one",
+      "leadmagnet.form.challengeOption1": "Decision fatigue",
+      "leadmagnet.form.challengeOption2": "People conflict",
+      "leadmagnet.form.challengeOption3": "Self-doubt under pressure",
+      "leadmagnet.form.challengeOption4": "Too many priorities",
+      "leadmagnet.form.cta": "Send me the worksheet",
+      "leadmagnet.form.disclaimer": "Replace <strong>YOUR_EMAIL@example.com</strong> in <code>index.html</code> with your real email to start collecting leads.",
+
       // CTA
       "cta.label": "Start Here",
       "cta.title": "Free First Session",
@@ -193,6 +216,29 @@
       "testimonial.rasul.role": "Android-разработчик",
       "testimonial.samira": "У Рустама крутой опыт в IT, но также он как коуч умеет слушать, задавать точные вопросы и мягко направлять в нужную сторону. После сессий с ним реально появляется ясность и уверенность, куда двигаться дальше. Если хотите профессионально и личностно расти — с коучем это сделать гораздо проще. В общем, рекомендую.",
       "testimonial.samira.role": "Фаундер, комьюнити-билдер",
+
+
+      // Lead magnet
+      "leadmagnet.label": "Бесплатный материал",
+      "leadmagnet.title": "Получи Founder Clarity Reset",
+      "leadmagnet.sub": "Практичный worksheet, чтобы распутать одно сложное решение за 15 минут.",
+      "leadmagnet.card.title": "Что внутри",
+      "leadmagnet.card.1": "Фреймворк из 5 вопросов для решений фаундера",
+      "leadmagnet.card.2": "Промпт, который помогает выйти из бесконечного обдумывания",
+      "leadmagnet.card.3": "Шаблон 10-минутного разбора, чтобы заметить повторяющиеся паттерны",
+      "leadmagnet.note": "Также получишь короткую серию follow-up писем с практичными вопросами. Отписаться можно в любой момент.",
+      "leadmagnet.form.name": "Имя",
+      "leadmagnet.form.namePlaceholder": "Алекс",
+      "leadmagnet.form.email": "Email",
+      "leadmagnet.form.emailPlaceholder": "alex@company.com",
+      "leadmagnet.form.challenge": "Главный вызов прямо сейчас (необязательно)",
+      "leadmagnet.form.challengeOption0": "Выбери вариант",
+      "leadmagnet.form.challengeOption1": "Усталость от решений",
+      "leadmagnet.form.challengeOption2": "Конфликты с людьми",
+      "leadmagnet.form.challengeOption3": "Неуверенность под давлением",
+      "leadmagnet.form.challengeOption4": "Слишком много приоритетов",
+      "leadmagnet.form.cta": "Отправьте мне worksheet",
+      "leadmagnet.form.disclaimer": "Замени <strong>YOUR_EMAIL@example.com</strong> в <code>index.html</code> на свой реальный email, чтобы начать собирать лиды.",
 
       // CTA
       "cta.label": "Начни здесь",
