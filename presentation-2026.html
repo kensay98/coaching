@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Скрытое узкое горлышко — Конференция 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="presentation.css">
+</head>
+<body>
+  <header class="deck-ui">
+    <div class="counter"><span id="current">1</span> / <span id="total">10</span></div>
+    <div class="hint">↑ ↓ arrows / scroll</div>
+  </header>
+
+  <main id="deck" class="deck" aria-live="polite">
+    <section class="slide title-slide">
+      <p class="eyebrow">Конференция 2026</p>
+      <h1>Скрытое узкое горлышко: почему мы чиним процессы, когда нужно чинить свой майндсет</h1>
+      <p class="subtitle">Как неосознаваемые паттерны руководителя становятся главным тормозом для команды</p>
+      <p class="author">Рустам Бабаджанов · kensay.space</p>
+    </section>
+
+    <section class="slide">
+      <h2>Проблема</h2>
+      <div class="stack">
+        <article class="card">
+          <h3>Мы без конца чиним процессы.</h3>
+          <p>А стеклянный потолок остаётся.</p>
+        </article>
+        <article class="card">
+          <h3>Новые фреймворки</h3>
+          <p>Scrum, Kanban, SAFe, OKR... Внедряем, радуемся, через полгода всё буксует снова.</p>
+        </article>
+        <article class="card">
+          <h3>Больше метрик, больше регламентов</h3>
+          <p>Цифры красивые, команда кивает — но по-настоящему ничего не меняется.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="slide">
+      <h2>Тезис</h2>
+      <blockquote>
+        Главный ботлнек — не процесс.<br>
+        Это менеджер.
+      </blockquote>
+      <p>Неосознаваемые психологические паттерны и культурные мемы руководителя становятся главным ограничителем роста бизнеса и самостоятельности команды.</p>
+      <p class="note">Всё дальше — это эксперименты, а не догма.</p>
+    </section>
+
+    <section class="slide">
+      <p class="slide-number">Ловушка #1</p>
+      <h2>Неумение оценивать свой результат</h2>
+      <ul class="flow">
+        <li>Непонятна своя ценность</li>
+        <li>Нужно чувствовать продуктивность</li>
+        <li>Ныряю в операционку</li>
+        <li>Микроменеджмент</li>
+      </ul>
+      <p class="experiment"><span>// эксперимент на 5 дней</span><br>Каждый вечер: «Что сегодня сделал, что мог сделать только менеджер?»</p>
+    </section>
+
+    <section class="slide">
+      <p class="slide-number">Ловушка #2</p>
+      <h2>Жажда быть нужным</h2>
+      <ul class="flow">
+        <li>Страх стать ненужным</li>
+        <li>Забираю решения на себя</li>
+        <li>Выученная беспомощность у команды</li>
+        <li>Дизэмпаверинг</li>
+      </ul>
+      <p class="experiment"><span>// эксперимент на 1 неделю</span><br>Отвечайте вопросом вместо ответа: «А ты сам что думаешь?»</p>
+    </section>
+
+    <section class="slide">
+      <p class="slide-number">Ловушка #3</p>
+      <h2>«Похвалишь — зазнаются»</h2>
+      <p>Данные Gallup показывают обратное: признание снижает выгорание и вероятность увольнения.</p>
+      <ul class="flow">
+        <li>Удерживаю похвалу</li>
+        <li>Люди не чувствуют ценности</li>
+        <li>Демотивация</li>
+        <li>Уход лучших</li>
+      </ul>
+      <p class="experiment"><span>// эксперимент на 2 недели</span><br>Одна конкретная похвала в день: «Я заметил X, это важно потому что Y».</p>
+    </section>
+
+    <section class="slide">
+      <h2>Слепая зона: «Я не знаю, что не знаю»</h2>
+      <div class="grid-2">
+        <div class="card"><strong>Знаю, что знаю</strong><p>Компетенции</p></div>
+        <div class="card"><strong>Знаю, что не знаю</strong><p>Зоны роста</p></div>
+        <div class="card active"><strong>Не знаю, что не знаю</strong><p>Слепые пятна</p></div>
+        <div class="card"><strong>Не знаю, что знаю</strong><p>Интуиция</p></div>
+      </div>
+      <p class="note">Ваши паттерны — это дефолт под нагрузкой. Их можно сделать видимыми.</p>
+    </section>
+
+    <section class="slide">
+      <h2>Роадмап: как ловить себя</h2>
+      <ol>
+        <li><strong>Дневник решений (5 дней)</strong> — что решил сам, что мог делегировать.</li>
+        <li><strong>Вопрос вместо ответа (1 неделя)</strong> — развиваем мышцу автономии команды.</li>
+        <li><strong>Конкретная похвала (2 недели)</strong> — наблюдаем реальный эффект.</li>
+        <li><strong>Триггер-маппинг (ongoing)</strong> — тело реагирует раньше ума.</li>
+      </ol>
+    </section>
+
+    <section class="slide">
+      <h2>Среды для дебага</h2>
+      <div class="stack">
+        <article class="card"><h3>Коллеги-менторы</h3><p>3 встречи, где вы обсуждаете себя как менеджера, а не только продукт.</p></article>
+        <article class="card"><h3>Коучинг</h3><p>Вопросы вместо советов, чтобы подсветить паттерны и провести безопасные эксперименты.</p></article>
+        <article class="card"><h3>Психотерапия</h3><p>Работа с глубокими корневыми паттернами, чтобы не проецировать их на команду.</p></article>
+      </div>
+    </section>
+
+    <section class="slide final-slide">
+      <h2>Финал</h2>
+      <blockquote>Не верьте мне.<br>Выберите один эксперимент.<br>Дайте себе неделю.</blockquote>
+      <p>Если ничего не изменится — вы ничего не потеряли.<br>Если изменится — вы нашли свой ботлнек.</p>
+      <p class="author">Рустам Бабаджанов · kensay.space</p>
+    </section>
+  </main>
+
+  <script src="presentation.js"></script>
+</body>
+</html>
