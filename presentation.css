@@ -72,6 +72,7 @@ p, li { color: var(--text-secondary); font-size: clamp(18px, 2.4vw, 24px); line-
 
 .stack, .grid-2 { display: grid; gap: 14px; }
 .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.cta-grid { width: 100%; max-width: 780px; }
 
 .card {
   background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.01));
@@ -81,6 +82,7 @@ p, li { color: var(--text-secondary); font-size: clamp(18px, 2.4vw, 24px); line-
 }
 .card.active { border-color: #6f6f6f; }
 .card p { font-size: 18px; }
+.card .small { font-size: 15px; color: #bfbfbf; }
 
 blockquote {
   border-left: 3px solid #666;
@@ -120,6 +122,25 @@ ol { padding-left: 26px; display: grid; gap: 10px; }
 
 .final-slide { text-align: center; align-items: center; }
 .final-slide p { max-width: 780px; }
+
+.cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.cloud span {
+  border: 1px solid #353535;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 999px;
+  padding: 10px 14px;
+  color: #d8d8d8;
+  font-size: 16px;
+}
+
+.qr-card {
+  text-align: left;
+}
 
 @media (max-width: 900px) {
   .hint { display: none; }
