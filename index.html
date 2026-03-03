@@ -218,42 +218,13 @@
         <div class="container">
             <div class="section-header">
                 <span class="section-label" data-i18n="blog.label">Blog</span>
-                <h2 data-i18n="blog.title">Ideas for founders and leaders</h2>
-                <p class="blog-sub" data-i18n="blog.sub">Read practical breakdowns on decision-making, leadership patterns, and scaling pressure.</p>
+                <h2 data-i18n="blog.title">Founder & leadership notes</h2>
+                <p class="blog-sub" data-i18n="blog.sub">Practical writing on decisions, leadership pressure, and building with clarity.</p>
             </div>
-
-            <article class="blog-post" data-article-id="founder-decision-loop-v1">
-                <div class="blog-post-header">
-                    <p class="blog-meta" data-i18n="blog.post.meta">Placeholder article · 8 min read</p>
-                    <h3 data-i18n="blog.post.title">When a hard decision keeps looping in your head</h3>
-                    <p class="blog-preview" data-i18n="blog.post.preview">You don't need more options. You need a process that separates facts from fear, and motion from noise. Here's the exact structure I use with founders.</p>
-                </div>
-
-                <div class="blog-gate" data-gate>
-                    <h4 data-i18n="blog.gate.title">Unlock full article</h4>
-                    <p data-i18n="blog.gate.copy">Enter your email and I'll send future founder notes as I publish. You can unsubscribe anytime.</p>
-                    <form class="blog-gate-form" action="https://formsubmit.co/YOUR_EMAIL@example.com" method="POST" target="blog-submit-frame" data-gate-form>
-                        <input type="hidden" name="_subject" value="New blog subscriber">
-                        <input type="hidden" name="_template" value="table">
-                        <input type="hidden" name="_captcha" value="false">
-                        <input type="hidden" name="source" value="blog-gate">
-
-                        <label for="blog-email" data-i18n="blog.gate.email">Work email</label>
-                        <input id="blog-email" type="email" name="email" required placeholder="you@company.com" data-i18n="blog.gate.emailPlaceholder" data-i18n-attr="placeholder">
-
-                        <button type="submit" class="btn btn-primary" data-i18n="blog.gate.cta">Unlock article</button>
-                        <p class="blog-gate-note" data-i18n="blog.gate.note">Important: replace <strong>YOUR_EMAIL@example.com</strong> with your real inbox or ESP endpoint.</p>
-                    </form>
-                </div>
-
-                <div class="blog-content" data-article-content hidden>
-                    <p data-i18n="blog.post.full.1">Most looping decisions are not information problems. They are identity and risk-tolerance problems disguised as strategy. That means reading five more threads rarely helps.</p>
-                    <p data-i18n="blog.post.full.2">Start with one sentence: what are you deciding, by when, and what happens if you don't decide. This turns vague pressure into a concrete decision boundary.</p>
-                    <p data-i18n="blog.post.full.3">Then split your notes in two columns: facts and stories. Facts are observable. Stories are interpretations. Founders with strong pattern-recognition often blur these without noticing.</p>
-                    <p data-i18n="blog.post.full.4">Finally, choose a reversible next move you can execute in 24 hours. Momentum creates clarity faster than rumination. You can still revise, but now with fresh signal instead of recycled anxiety.</p>
-                </div>
-            </article>
-            <iframe name="blog-submit-frame" title="blog submission" class="visually-hidden" tabindex="-1"></iframe>
+            <div class="blog-cta-card">
+                <p data-i18n="blog.cta.copy">Read articles and practical frameworks in the blog.</p>
+                <a href="blog.html" class="btn btn-primary" data-i18n="blog.cta.button">Go to Blog</a>
+            </div>
         </div>
     </section>
 
@@ -297,41 +268,6 @@
     <script src="i18n.js"></script>
     <script type="module" src="nurbs-hero.js"></script>
     <script type="module" src="nurbs-sections.js"></script>
-    <script>
-        (function () {
-            var STORAGE_PREFIX = "article-unlocked:";
-
-            function unlock(article) {
-                var gate = article.querySelector("[data-gate]");
-                var content = article.querySelector("[data-article-content]");
-                if (gate) gate.hidden = true;
-                if (content) content.hidden = false;
-            }
-
-            var articles = document.querySelectorAll(".blog-post[data-article-id]");
-            for (var i = 0; i < articles.length; i++) {
-                var article = articles[i];
-                var id = article.getAttribute("data-article-id");
-                if (!id) continue;
-
-                try {
-                    if (localStorage.getItem(STORAGE_PREFIX + id) === "1") {
-                        unlock(article);
-                    }
-                } catch (e) {}
-
-                var form = article.querySelector("[data-gate-form]");
-                if (!form) continue;
-                form.addEventListener("submit", (function (currentArticle, currentId) {
-                    return function () {
-                        try { localStorage.setItem(STORAGE_PREFIX + currentId, "1"); } catch (e) {}
-                        unlock(currentArticle);
-                    };
-                })(article, id));
-            }
-        })();
-    </script>
-
     <script>
         window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>

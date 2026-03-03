@@ -89,21 +89,10 @@
 
       // Blog
       "blog.label": "Blog",
-      "blog.title": "Ideas for founders and leaders",
-      "blog.sub": "Read practical breakdowns on decision-making, leadership patterns, and scaling pressure.",
-      "blog.post.meta": "Placeholder article · 8 min read",
-      "blog.post.title": "When a hard decision keeps looping in your head",
-      "blog.post.preview": "You don't need more options. You need a process that separates facts from fear, and motion from noise. Here's the exact structure I use with founders.",
-      "blog.gate.title": "Unlock full article",
-      "blog.gate.copy": "Enter your email and I'll send future founder notes as I publish. You can unsubscribe anytime.",
-      "blog.gate.email": "Work email",
-      "blog.gate.emailPlaceholder": "you@company.com",
-      "blog.gate.cta": "Unlock article",
-      "blog.gate.note": "Important: replace <strong>YOUR_EMAIL@example.com</strong> with your real inbox or ESP endpoint.",
-      "blog.post.full.1": "Most looping decisions are not information problems. They are identity and risk-tolerance problems disguised as strategy. That means reading five more threads rarely helps.",
-      "blog.post.full.2": "Start with one sentence: what are you deciding, by when, and what happens if you don't decide. This turns vague pressure into a concrete decision boundary.",
-      "blog.post.full.3": "Then split your notes in two columns: facts and stories. Facts are observable. Stories are interpretations. Founders with strong pattern-recognition often blur these without noticing.",
-      "blog.post.full.4": "Finally, choose a reversible next move you can execute in 24 hours. Momentum creates clarity faster than rumination. You can still revise, but now with fresh signal instead of recycled anxiety.",
+      "blog.title": "Founder & leadership notes",
+      "blog.sub": "Practical writing on decisions, leadership pressure, and building with clarity.",
+      "blog.cta.copy": "Read articles and practical frameworks in the blog.",
+      "blog.cta.button": "Go to Blog",
 
       // CTA
       "cta.label": "Start Here",
@@ -216,21 +205,10 @@
 
       // Blog
       "blog.label": "Блог",
-      "blog.title": "Идеи для фаундеров и лидеров",
-      "blog.sub": "Практичные разборы про решения, лидерские паттерны и давление роста.",
-      "blog.post.meta": "Тестовая статья · 8 минут",
-      "blog.post.title": "Что делать, когда сложное решение крутится по кругу",
-      "blog.post.preview": "Тебе не нужно больше вариантов. Нужен процесс, который отделяет факты от страха, а движение от шума. Вот структура, с которой я работаю с фаундерами.",
-      "blog.gate.title": "Открыть полную статью",
-      "blog.gate.copy": "Оставь email, и я буду присылать новые заметки для фаундеров по мере публикации. Отписаться можно в любой момент.",
-      "blog.gate.email": "Рабочий email",
-      "blog.gate.emailPlaceholder": "you@company.com",
-      "blog.gate.cta": "Открыть статью",
-      "blog.gate.note": "Важно: замени <strong>YOUR_EMAIL@example.com</strong> на свой реальный email или endpoint email-сервиса.",
-      "blog.post.full.1": "Большинство цикличных решений — это не нехватка информации. Это вопросы идентичности и толерантности к риску, замаскированные под стратегию. Поэтому ещё пять тредов редко помогают.",
-      "blog.post.full.2": "Начни с одной фразы: что именно ты решаешь, к какому сроку и что будет, если не решить. Так размытое давление превращается в конкретную рамку решения.",
-      "blog.post.full.3": "Дальше раздели заметки на две колонки: факты и истории. Факты наблюдаемы. Истории — это интерпретации. У фаундеров с сильным паттерн-матчингом эти вещи часто незаметно смешиваются.",
-      "blog.post.full.4": "В конце выбери обратимый следующий шаг, который можно сделать за 24 часа. Движение даёт ясность быстрее, чем руминация. Решение можно скорректировать, но уже на свежем сигнале, а не на повторяющейся тревоге.",
+      "blog.title": "Заметки для фаундеров и лидеров",
+      "blog.sub": "Практичные тексты про решения, лидерское давление и ясность в росте.",
+      "blog.cta.copy": "Читайте статьи и практичные фреймворки в блоге.",
+      "blog.cta.button": "Перейти в блог",
 
       // CTA
       "cta.label": "Начни здесь",
