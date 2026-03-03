@@ -214,48 +214,46 @@
         </div>
     </section>
 
-    <section class="section section-dark" id="leadmagnet">
+    <section class="section section-dark" id="blog">
         <div class="container">
             <div class="section-header">
-                <span class="section-label" data-i18n="leadmagnet.label">Free Resource</span>
-                <h2 data-i18n="leadmagnet.title">Get the Founder Clarity Reset</h2>
-                <p class="leadmagnet-sub" data-i18n="leadmagnet.sub">A practical worksheet to untangle one hard decision in 15 minutes.</p>
+                <span class="section-label" data-i18n="blog.label">Blog</span>
+                <h2 data-i18n="blog.title">Ideas for founders and leaders</h2>
+                <p class="blog-sub" data-i18n="blog.sub">Read practical breakdowns on decision-making, leadership patterns, and scaling pressure.</p>
             </div>
-            <div class="leadmagnet-grid">
-                <div class="leadmagnet-card">
-                    <h3 data-i18n="leadmagnet.card.title">What's inside</h3>
-                    <ul class="leadmagnet-list">
-                        <li data-i18n="leadmagnet.card.1">A 5-question decision framework for founder-level calls</li>
-                        <li data-i18n="leadmagnet.card.2">A loop-breaker prompt when you keep overthinking</li>
-                        <li data-i18n="leadmagnet.card.3">A 10-minute debrief template to spot repeating patterns</li>
-                    </ul>
-                    <p class="leadmagnet-note" data-i18n="leadmagnet.note">You'll also get a short follow-up email sequence with practical prompts. Unsubscribe anytime.</p>
+
+            <article class="blog-post" data-article-id="founder-decision-loop-v1">
+                <div class="blog-post-header">
+                    <p class="blog-meta" data-i18n="blog.post.meta">Placeholder article · 8 min read</p>
+                    <h3 data-i18n="blog.post.title">When a hard decision keeps looping in your head</h3>
+                    <p class="blog-preview" data-i18n="blog.post.preview">You don't need more options. You need a process that separates facts from fear, and motion from noise. Here's the exact structure I use with founders.</p>
                 </div>
-                <form class="leadmagnet-form" action="https://formsubmit.co/YOUR_EMAIL@example.com" method="POST">
-                    <input type="hidden" name="_subject" value="New lead magnet subscriber">
-                    <input type="hidden" name="_template" value="table">
-                    <input type="hidden" name="_captcha" value="false">
-                    <input type="hidden" name="_next" value="https://cal.com/kensay/free-session">
 
-                    <label for="lead-name" data-i18n="leadmagnet.form.name">First name</label>
-                    <input id="lead-name" name="name" type="text" required placeholder="Alex" data-i18n="leadmagnet.form.namePlaceholder" data-i18n-attr="placeholder">
+                <div class="blog-gate" data-gate>
+                    <h4 data-i18n="blog.gate.title">Unlock full article</h4>
+                    <p data-i18n="blog.gate.copy">Enter your email and I'll send future founder notes as I publish. You can unsubscribe anytime.</p>
+                    <form class="blog-gate-form" action="https://formsubmit.co/YOUR_EMAIL@example.com" method="POST" target="blog-submit-frame" data-gate-form>
+                        <input type="hidden" name="_subject" value="New blog subscriber">
+                        <input type="hidden" name="_template" value="table">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="source" value="blog-gate">
 
-                    <label for="lead-email" data-i18n="leadmagnet.form.email">Email</label>
-                    <input id="lead-email" name="email" type="email" required placeholder="alex@company.com" data-i18n="leadmagnet.form.emailPlaceholder" data-i18n-attr="placeholder">
+                        <label for="blog-email" data-i18n="blog.gate.email">Work email</label>
+                        <input id="blog-email" type="email" name="email" required placeholder="you@company.com" data-i18n="blog.gate.emailPlaceholder" data-i18n-attr="placeholder">
 
-                    <label for="lead-challenge" data-i18n="leadmagnet.form.challenge">Biggest challenge right now (optional)</label>
-                    <select id="lead-challenge" name="challenge">
-                        <option value="" data-i18n="leadmagnet.form.challengeOption0">Choose one</option>
-                        <option value="decision-fatigue" data-i18n="leadmagnet.form.challengeOption1">Decision fatigue</option>
-                        <option value="people-conflict" data-i18n="leadmagnet.form.challengeOption2">People conflict</option>
-                        <option value="self-doubt" data-i18n="leadmagnet.form.challengeOption3">Self-doubt under pressure</option>
-                        <option value="focus-overload" data-i18n="leadmagnet.form.challengeOption4">Too many priorities</option>
-                    </select>
+                        <button type="submit" class="btn btn-primary" data-i18n="blog.gate.cta">Unlock article</button>
+                        <p class="blog-gate-note" data-i18n="blog.gate.note">Important: replace <strong>YOUR_EMAIL@example.com</strong> with your real inbox or ESP endpoint.</p>
+                    </form>
+                </div>
 
-                    <button type="submit" class="btn btn-primary" data-i18n="leadmagnet.form.cta">Send me the worksheet</button>
-                    <p class="leadmagnet-disclaimer" data-i18n="leadmagnet.form.disclaimer">Replace <strong>YOUR_EMAIL@example.com</strong> in <code>index.html</code> with your real email to start collecting leads.</p>
-                </form>
-            </div>
+                <div class="blog-content" data-article-content hidden>
+                    <p data-i18n="blog.post.full.1">Most looping decisions are not information problems. They are identity and risk-tolerance problems disguised as strategy. That means reading five more threads rarely helps.</p>
+                    <p data-i18n="blog.post.full.2">Start with one sentence: what are you deciding, by when, and what happens if you don't decide. This turns vague pressure into a concrete decision boundary.</p>
+                    <p data-i18n="blog.post.full.3">Then split your notes in two columns: facts and stories. Facts are observable. Stories are interpretations. Founders with strong pattern-recognition often blur these without noticing.</p>
+                    <p data-i18n="blog.post.full.4">Finally, choose a reversible next move you can execute in 24 hours. Momentum creates clarity faster than rumination. You can still revise, but now with fresh signal instead of recycled anxiety.</p>
+                </div>
+            </article>
+            <iframe name="blog-submit-frame" title="blog submission" class="visually-hidden" tabindex="-1"></iframe>
         </div>
     </section>
 
@@ -299,6 +297,41 @@
     <script src="i18n.js"></script>
     <script type="module" src="nurbs-hero.js"></script>
     <script type="module" src="nurbs-sections.js"></script>
+    <script>
+        (function () {
+            var STORAGE_PREFIX = "article-unlocked:";
+
+            function unlock(article) {
+                var gate = article.querySelector("[data-gate]");
+                var content = article.querySelector("[data-article-content]");
+                if (gate) gate.hidden = true;
+                if (content) content.hidden = false;
+            }
+
+            var articles = document.querySelectorAll(".blog-post[data-article-id]");
+            for (var i = 0; i < articles.length; i++) {
+                var article = articles[i];
+                var id = article.getAttribute("data-article-id");
+                if (!id) continue;
+
+                try {
+                    if (localStorage.getItem(STORAGE_PREFIX + id) === "1") {
+                        unlock(article);
+                    }
+                } catch (e) {}
+
+                var form = article.querySelector("[data-gate-form]");
+                if (!form) continue;
+                form.addEventListener("submit", (function (currentArticle, currentId) {
+                    return function () {
+                        try { localStorage.setItem(STORAGE_PREFIX + currentId, "1"); } catch (e) {}
+                        unlock(currentArticle);
+                    };
+                })(article, id));
+            }
+        })();
+    </script>
+
     <script>
         window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>
