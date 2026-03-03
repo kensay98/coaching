@@ -126,3 +126,11 @@ ol { padding-left: 26px; display: grid; gap: 10px; }
   .grid-2 { grid-template-columns: 1fr; }
   p, li { font-size: 19px; }
 }
+
+
+.grid-3 { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.signal { font-size: 16px; color: #cfcfcf; }
+
+@media (max-width: 1000px) {
+  .grid-3 { grid-template-columns: 1fr; }
+}
