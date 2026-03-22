@@ -88,6 +88,19 @@ h4 {
     font-weight: 600;
 }
 
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 /* Navigation */
 nav {
     position: fixed;
@@ -636,6 +649,108 @@ nav {
     color: var(--text-primary);
 }
 
+
+/* Blog */
+.blog-sub {
+    max-width: 700px;
+    color: var(--text-secondary);
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.blog-cta-card {
+    padding: 32px;
+    border-radius: var(--radius-lg);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-primary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.blog-cta-card p {
+    color: var(--text-secondary);
+    font-size: 16px;
+    line-height: 1.8;
+    max-width: 680px;
+}
+
+/* Blog pages */
+.page-hero {
+    padding: 160px 0 64px;
+}
+
+.page-title {
+    max-width: 800px;
+    margin-bottom: 16px;
+}
+
+.page-sub {
+    color: var(--text-secondary);
+    max-width: 760px;
+    line-height: 1.8;
+}
+
+.breadcrumb {
+    display: inline-block;
+    margin-bottom: 18px;
+    color: var(--text-tertiary);
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.post-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.post-card {
+    padding: 28px;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-primary);
+    background: var(--bg-tertiary);
+    text-decoration: none;
+    display: block;
+    transition: transform var(--transition), border-color var(--transition), background var(--transition);
+}
+
+.post-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 255, 255, 0.14);
+    background: var(--bg-card-hover);
+}
+
+.post-card h3 {
+    margin-bottom: 10px;
+    color: var(--text-primary);
+}
+
+.post-card p {
+    color: var(--text-secondary);
+    line-height: 1.75;
+}
+
+.post-meta {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text-tertiary);
+    margin-bottom: 10px;
+}
+
+.post-content {
+    max-width: 760px;
+}
+
+.post-content p {
+    color: var(--text-secondary);
+    line-height: 1.9;
+    margin-bottom: 16px;
+}
+
 /* Testimonials */
 .testimonials-grid {
     display: grid;
@@ -835,6 +950,12 @@ footer p {
     .testimonials-grid {
         grid-template-columns: 1fr;
     }
+
+    .blog-cta-card {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
 }
 
 @media (max-width: 600px) {

@@ -86,6 +86,14 @@
       "testimonial.samira": "As a coach, Rustam knows how to listen, ask the right questions, and gently guide you in the right direction. After sessions with him, you genuinely gain clarity and confidence about where to go next. If you want to grow professionally and personally — having a coach makes it so much easier. Highly recommend.",
       "testimonial.samira.role": "Founder, Community Builder",
 
+
+      // Blog
+      "blog.label": "Blog",
+      "blog.title": "Founder & leadership notes",
+      "blog.sub": "Practical writing on decisions, leadership pressure, and building with clarity.",
+      "blog.cta.copy": "Read articles and practical frameworks in the blog.",
+      "blog.cta.button": "Go to Blog",
+
       // CTA
       "cta.label": "Start Here",
       "cta.title": "Free First Session",
@@ -193,6 +201,14 @@
       "testimonial.rasul.role": "Android-разработчик",
       "testimonial.samira": "У Рустама крутой опыт в IT, но также он как коуч умеет слушать, задавать точные вопросы и мягко направлять в нужную сторону. После сессий с ним реально появляется ясность и уверенность, куда двигаться дальше. Если хотите профессионально и личностно расти — с коучем это сделать гораздо проще. В общем, рекомендую.",
       "testimonial.samira.role": "Фаундер, комьюнити-билдер",
+
+
+      // Blog
+      "blog.label": "Блог",
+      "blog.title": "Заметки для фаундеров и лидеров",
+      "blog.sub": "Практичные тексты про решения, лидерское давление и ясность в росте.",
+      "blog.cta.copy": "Читайте статьи и практичные фреймворки в блоге.",
+      "blog.cta.button": "Перейти в блог",
 
       // CTA
       "cta.label": "Начни здесь",
