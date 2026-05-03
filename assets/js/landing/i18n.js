@@ -111,7 +111,7 @@
       // Startup leadership page
       "startup.meta.description": "An 8-week coaching program for early-stage startups: turn strong ICs into autonomous team leads and reduce the founder patterns that keep decisions flowing upward.",
       "startup.meta.title": "First Team Leads | Rustam Babadjanov",
-      "startup.nav.general": "General Coaching",
+      "startup.nav.general": "Personal Coaching",
       "startup.nav.cta": "Book Founder Call",
       "startup.hero.imgAlt": "Rustam Babadjanov",
       "startup.hero.title": "Your team leads still come to you for every decision?",
@@ -316,7 +316,7 @@
       // Startup leadership page
       "startup.meta.description": "8-недельная коучинговая программа для стартапов ранней стадии: сильные специалисты становятся автономными тимлидами, а решения перестают возвращаться к фаундеру по умолчанию.",
       "startup.meta.title": "Первые тимлиды | Рустам Бабаджанов",
-      "startup.nav.general": "Общий коучинг",
+      "startup.nav.general": "Личный коучинг",
       "startup.nav.cta": "Звонок для фаундера",
       "startup.hero.imgAlt": "Рустам Бабаджанов",
       "startup.hero.title": "Ваши тимлиды всё ещё приходят к вам за каждым решением?",
