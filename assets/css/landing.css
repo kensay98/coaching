@@ -128,6 +128,19 @@ nav {
     transition: var(--transition);
 }
 
+.nav-link {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color var(--transition);
+    white-space: nowrap;
+}
+
+.nav-link:hover {
+    color: var(--text-primary);
+}
+
 .nav-cta:hover {
     background: var(--bg-card-hover);
     border-color: var(--text-tertiary);
@@ -845,6 +858,10 @@ footer p {
     .hero {
         padding: 140px 0 var(--space-9);
         text-align: center;
+    }
+
+    .nav-link {
+        display: none;
     }
 
     .hero h1 {

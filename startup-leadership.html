@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" data-i18n="startup.meta.description" data-i18n-attr="content" content="An 8-week coaching program for early-stage startups that turns strong ICs into autonomous team leads, so founders stop being the bottleneck.">
+    <title>First Team Leads | Rustam Babadjanov</title>
+    <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+    <link rel="stylesheet" href="assets/css/landing.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+      }
+    }
+    </script>
+</head>
+<body data-title-key="startup.meta.title">
+    <nav>
+        <div class="container nav-content">
+            <a href="index.html" class="logo">Rustam Babadjanov</a>
+            <div class="nav-right">
+                <a href="index.html" class="nav-link" data-i18n="startup.nav.general">General Coaching</a>
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="en">EN</button>
+                    <button class="lang-btn" data-lang="ru">RU</button>
+                </div>
+                <a href="#contact" class="nav-cta" data-i18n="startup.nav.cta">Book Founder Call</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <canvas id="hero-canvas" style="opacity:0;background:transparent"></canvas>
+        <div class="container">
+            <img src="assets/images/image.png" data-i18n="startup.hero.imgAlt" data-i18n-attr="alt" alt="Rustam Babadjanov" class="hero-photo">
+            <h1 data-i18n="startup.hero.title">Your team leads still depend on you for every decision?</h1>
+            <p class="hero-sub" data-i18n="startup.hero.sub">I turn strong ICs into autonomous leaders in 8 weeks, so you can step out of day-to-day decisions without the company slowing down.</p>
+            <div class="hero-meta">
+                <span data-i18n="startup.hero.meta.1">Early-stage startups</span>
+                <span class="hero-meta-sep">·</span>
+                <span data-i18n="startup.hero.meta.2">10-30 people</span>
+                <span class="hero-meta-sep">·</span>
+                <span data-i18n="startup.hero.meta.3">Founder bottleneck removal</span>
+            </div>
+            <div class="hero-actions">
+                <a href="#contact" class="btn btn-primary" data-i18n="startup.hero.cta.primary">Book a Founder Call</a>
+                <a href="#program" class="btn btn-ghost" data-i18n="startup.hero.cta.ghost">See the Program</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="section" id="moment">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label" data-i18n="startup.moment.label">The Moment</span>
+                <h2 data-i18n="startup.moment.title">"I can't be in every decision anymore. But when I step back, things break."</h2>
+            </div>
+            <div class="audience-content">
+                <p data-i18n="startup.moment.intro">This is the buying moment. The company is growing fast, first team leads are emerging, but there is no real leadership layer yet. Every unclear decision still finds its way back to the founder.</p>
+
+                <div class="audience-split">
+                    <div class="audience-track">
+                        <h3 data-i18n="startup.moment.see.h">What you see</h3>
+                        <p class="audience-track-sub" data-i18n="startup.moment.see.sub">The symptoms are practical and visible.</p>
+                        <ul class="audience-list">
+                            <li data-i18n="startup.moment.see.1">Everything still routes through you</li>
+                            <li data-i18n="startup.moment.see.2">Team leads ask instead of decide</li>
+                            <li data-i18n="startup.moment.see.3">Ownership is blurry</li>
+                            <li data-i18n="startup.moment.see.4">Execution slows when you are not involved</li>
+                        </ul>
+                    </div>
+                    <div class="audience-track">
+                        <h3 data-i18n="startup.moment.cost.h">What it costs</h3>
+                        <p class="audience-track-sub" data-i18n="startup.moment.cost.sub">The company keeps scaling, but your attention does not.</p>
+                        <ul class="audience-list">
+                            <li data-i18n="startup.moment.cost.1">You are overloaded and slightly frustrated</li>
+                            <li data-i18n="startup.moment.cost.2">People problems wait too long</li>
+                            <li data-i18n="startup.moment.cost.3">Decision speed depends on your availability</li>
+                            <li data-i18n="startup.moment.cost.4">The team cannot fully own outcomes yet</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section-dark section-about" id="root">
+        <canvas id="about-canvas" style="opacity:0;background:transparent"></canvas>
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label" data-i18n="startup.root.label">Root Problem</span>
+                <h2 data-i18n="startup.root.title">You promoted executors, not leaders.</h2>
+            </div>
+            <div class="about-text">
+                <p data-i18n="startup.root.p1">They are strong ICs. That is why you trusted them. But execution skill does not automatically become ownership, people leadership, or decision-making under uncertainty.</p>
+                <p data-i18n="startup.root.p2">The work is to help each lead build a new operating pattern: own the outcome, make bounded decisions, delegate the work, and address friction before it becomes your problem.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section-dark" id="program">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label" data-i18n="startup.offer.label">The Offer</span>
+                <h2 data-i18n="startup.offer.title">8 weeks of real-time leadership practice</h2>
+            </div>
+            <div class="two-column">
+                <div class="column-card">
+                    <h3 data-i18n="startup.offer.format.h">Format</h3>
+                    <ul class="format-list">
+                        <li data-i18n="startup.offer.format.1"><strong>8 weeks</strong> focused on your first team leads</li>
+                        <li data-i18n="startup.offer.format.2"><strong>Weekly 1:1 coaching</strong>, 60 minutes per lead</li>
+                        <li data-i18n="startup.offer.format.3"><strong>Async support</strong> for real situations during the week</li>
+                        <li data-i18n="startup.offer.format.4"><strong>Founder calibration</strong> on what should stop escalating to you</li>
+                    </ul>
+                </div>
+                <div class="column-card">
+                    <h3 data-i18n="startup.offer.work.h">What we work on</h3>
+                    <p class="method-intro" data-i18n="startup.offer.work.intro">No generic leadership training. We use the actual problems your leads are facing right now:</p>
+                    <ul class="format-list">
+                        <li data-i18n="startup.offer.work.1">"I don't know how to delegate this."</li>
+                        <li data-i18n="startup.offer.work.2">"I'm stuck making this decision."</li>
+                        <li data-i18n="startup.offer.work.3">"My team member is underperforming."</li>
+                        <li data-i18n="startup.offer.work.4">"I'm avoiding this conversation."</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="shifts">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label" data-i18n="startup.shifts.label">Core Shifts</span>
+                <h2 data-i18n="startup.shifts.title">What changes in the lead</h2>
+            </div>
+            <div class="transformation">
+                <div class="transform-column">
+                    <h3 data-i18n="startup.shifts.executor.h">Executor -> Owner</h3>
+                    <p data-i18n="startup.shifts.executor.p">They stop waiting for instructions and start taking responsibility for outcomes.</p>
+                    <ul>
+                        <li data-i18n="startup.shifts.executor.1">Clarify the outcome, not just the task</li>
+                        <li data-i18n="startup.shifts.executor.2">Notice what is theirs to own</li>
+                        <li data-i18n="startup.shifts.executor.3">Move without needing constant founder context</li>
+                    </ul>
+                </div>
+                <div class="transform-column">
+                    <h3 data-i18n="startup.shifts.asking.h">Asking -> Deciding</h3>
+                    <p data-i18n="startup.shifts.asking.p">They learn what to decide, what to communicate, and what truly needs escalation.</p>
+                    <ul>
+                        <li data-i18n="startup.shifts.asking.1">Define decision boundaries</li>
+                        <li data-i18n="startup.shifts.asking.2">Escalate exceptions, not routine calls</li>
+                        <li data-i18n="startup.shifts.asking.3">Build confidence under uncertainty</li>
+                    </ul>
+                </div>
+                <div class="transform-column">
+                    <h3 data-i18n="startup.shifts.doing.h">Doing -> Delegating</h3>
+                    <p data-i18n="startup.shifts.doing.p">They hand off work without dumping, hovering, or taking it back at the first sign of friction.</p>
+                    <ul>
+                        <li data-i18n="startup.shifts.doing.1">Choose what to delegate</li>
+                        <li data-i18n="startup.shifts.doing.2">Set clear expectations</li>
+                        <li data-i18n="startup.shifts.doing.3">Avoid micromanagement loops</li>
+                    </ul>
+                </div>
+                <div class="transform-column">
+                    <h3 data-i18n="startup.shifts.avoiding.h">Avoiding -> Addressing</h3>
+                    <p data-i18n="startup.shifts.avoiding.p">They handle feedback, underperformance, and uncomfortable conversations earlier.</p>
+                    <ul>
+                        <li data-i18n="startup.shifts.avoiding.1">Name issues clearly</li>
+                        <li data-i18n="startup.shifts.avoiding.2">Give useful feedback</li>
+                        <li data-i18n="startup.shifts.avoiding.3">Reduce hidden tension in the team</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section cta" id="outcomes">
+        <canvas id="cta-canvas" style="opacity:0;background:transparent"></canvas>
+        <div class="container">
+            <div class="cta-content">
+                <span class="section-label" data-i18n="startup.outcomes.label">Founder Outcomes</span>
+                <h2 data-i18n="startup.outcomes.title">"I don't need to be in everything anymore."</h2>
+                <div class="cta-steps">
+                    <div class="cta-step">
+                        <div>
+                            <h4 data-i18n="startup.outcomes.1.h">Fewer interruptions</h4>
+                            <p data-i18n="startup.outcomes.1.p">Team leads stop routing routine uncertainty through you.</p>
+                        </div>
+                    </div>
+                    <div class="cta-step">
+                        <div>
+                            <h4 data-i18n="startup.outcomes.2.h">Fewer escalations</h4>
+                            <p data-i18n="startup.outcomes.2.p">The boundary between "decide" and "escalate" becomes clear.</p>
+                        </div>
+                    </div>
+                    <div class="cta-step">
+                        <div>
+                            <h4 data-i18n="startup.outcomes.3.h">Faster execution</h4>
+                            <p data-i18n="startup.outcomes.3.p">Work moves without waiting for the founder to unblock every call.</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="#contact" class="btn btn-primary btn-large" data-i18n="startup.outcomes.cta">Start Here</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="different">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label" data-i18n="startup.different.label">Why This</span>
+                <h2 data-i18n="startup.different.title">Leadership is built in real situations, not learned in the abstract.</h2>
+            </div>
+            <div class="alternatives">
+                <div class="alternative">
+                    <h4 data-i18n="startup.different.alt.h">Most alternatives</h4>
+                    <p data-i18n="startup.different.alt.p1">Generic leadership training, frameworks, workshops, and slides.</p>
+                    <p class="highlight" data-i18n="startup.different.alt.p2"><strong>The problem:</strong> they rarely touch the actual situations your leads are avoiding this week.</p>
+                </div>
+                <div class="alternative">
+                    <h4 data-i18n="startup.different.this.h">This program</h4>
+                    <p data-i18n="startup.different.this.p1">We work on live situations, in real time, with your actual team leads.</p>
+                    <p class="highlight" data-i18n="startup.different.this.p2"><strong>The shift:</strong> what happened this week becomes the material for how they lead differently next week.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section cta" id="contact">
+        <div class="container">
+            <div class="cta-content">
+                <span class="section-label" data-i18n="startup.contact.label">Start Here</span>
+                <h2 data-i18n="startup.contact.title">Ready to stop being the bottleneck?</h2>
+                <div class="cta-steps">
+                    <div class="cta-step">
+                        <div>
+                            <h4 data-i18n="startup.contact.1.h">Bring the current leads</h4>
+                            <p data-i18n="startup.contact.1.p">Who is newly responsible for outcomes, people, or decisions?</p>
+                        </div>
+                    </div>
+                    <div class="cta-step">
+                        <div>
+                            <h4 data-i18n="startup.contact.2.h">Bring the escalations</h4>
+                            <p data-i18n="startup.contact.2.p">Which decisions still come to you that should not?</p>
+                        </div>
+                    </div>
+                    <div class="cta-step">
+                        <div>
+                            <h4 data-i18n="startup.contact.3.h">Bring where it breaks</h4>
+                            <p data-i18n="startup.contact.3.p">What slows down or gets messy when you step back?</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://cal.com/kensay/free-session" target="_blank" rel="noopener" class="btn btn-primary btn-large" data-i18n="startup.contact.cta">Book a Founder Call</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p data-i18n="startup.footer.main">Rustam Babadjanov · First Team Leads</p>
+            <p class="footer-meta" data-i18n="startup.footer.meta">English & Russian · Virtual sessions worldwide</p>
+        </div>
+    </footer>
+
+    <script src="assets/js/landing/i18n.js"></script>
+    <script type="module" src="assets/js/landing/nurbs-hero.js"></script>
+    <script type="module" src="assets/js/landing/nurbs-sections.js"></script>
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
+</body>
+</html>
